@@ -1,0 +1,2971 @@
+nodeA,nodeB,weight
+quite,septa mordane,1
+bran,eddard stark,2
+bran,jon snow,8
+cassel,stark,1
+white walkers,will,2
+white walkers,white walkers,1
+eddard stark,warden,1
+bran stark,jon,2
+jon snow,stark,10
+stark,stark,6
+snow,theon greyjoy,1
+cersei lannister,jon arryn,2
+jaime lannister,jon arryn,1
+jaime lannister,robert,3
+jon arryn,robert,2
+catelyn stark,jon arryn,3
+catelyn stark,ned,9
+robb stark,tommy,1
+eddard stark,winterfell,2
+arya stark,jaime lannister,2
+ned,robert baratheon,8
+eddard stark,jon arryn,7
+robert baratheon,stark,2
+ned,stark,2
+mmh,tyrion lannister,1
+ros,winterfell,1
+dothraki,illyrio,3
+dothraki,viserys,2
+khal drogo,viserys,1
+dothraki,khal drogo,1
+illyrio,khal drogo,2
+joffrey,sansa stark,23
+catelyn stark,hush,1
+jon snow,lady stark,1
+ned stark's,tyrion lannister,4
+lady stark,tyrion lannister,6
+benjen,ned,1
+benjen,ranger,1
+ned,ranger,1
+eddard stark,walkers,1
+robb stark,uncle benjen,1
+catelyn stark,kings landing,1
+kings landing,ned,1
+a voice,maester luwin,1
+luwin,stark,2
+catelyn stark,robert,1
+jorah mormont,jorah mormont,2
+daenerys targaryen,magister,1
+daenerys targaryen,ser jorah,6
+imp,sandor clegane,2
+dothraki,jorah mormont,8
+grace,jorah mormont,2
+jorah mormont,magister illyrio,1
+grace,magister illyrio,1
+ned stark,viserys targaryen,1
+joffrey lannister,uncle,7
+maester,tyrion lannister,1
+catelyn stark,grace,1
+cersei lannister,robert,11
+robert,robert,6
+jaime lannister,white walkers,1
+arya stark,septa mordane,2
+jon snow,uncle benjen,1
+catelyn stark,robert baratheon,1
+bran,robb stark,5
+eddard stark,starks,1
+becca,robert baratheon,1
+aleena,robert baratheon,1
+meryl,robert baratheon,1
+aleena,meryl,1
+dothraki,eddard stark,3
+eddard stark,robert,10
+dothraki,robert,3
+dothraki,robert baratheon,4
+maester luwin,stark,2
+maester luwin,robb stark,1
+bran,catelyn stark,7
+rickon,robb stark,5
+doreah,garth,1
+irri,moon,2
+moon,moon,1
+daenerys targaryen,khal,2
+catelyn stark,stark,4
+hal,rodrick cassel,1
+doreah,kings,1
+doreah,dothraki,2
+doreah,khal,1
+dothraki,khal,1
+daenerys targaryen,dothraki,20
+arya stark,joffrey,19
+cersei lannister,joffrey,30
+eddard stark,grace,5
+grace,soldier,2
+lady,sansa stark,1
+cersei lannister,ser ilyn,1
+kings landing guard,stark,1
+jaime lannister,stark,15
+eddard stark,glad,1
+jaime lannister,the mad king,3
+stark,the mad king,1
+stark,varys,5
+petyr baelish,stark,4
+lady catelyn,petyr baelish,1
+lady catelyn,stark,1
+baelish,eddard stark,3
+brandon,eddard stark,1
+baelish,brandon,1
+catelyn tully,petyr baelish,1
+grand maester pycelle,stark,3
+renly baratheon,stark,1
+joffrey lannister,stark,2
+aerys targaryen,cersei lannister,1
+cersei lannister,stark,8
+joffrey lannister,seize winterfell,1
+joffrey lannister,warden,1
+joffrey lannister,uncle kevan,1
+seize winterfell,warden,1
+seize winterfell,uncle kevan,1
+uncle kevan,warden,1
+joffrey lannister,starks,1
+hound,sansa stark,1
+arya stark,hound,10
+arya stark,mycah,2
+eddard stark,joffrey,1
+old nan,ser duncan,1
+macumber,robb stark,1
+bran stark,maester luwin,2
+guard,lady stark,2
+catelyn stark,sally,1
+lady stark,varys,1
+petyr baelish,ser jaime,1
+imp,petyr baelish,1
+alliser thorne,snow,4
+alliser thorne,ned stark's,1
+ned stark's,snow,1
+mormont,tyrion lannister,2
+jeor mormont,ned stark's,1
+petyr baelish,starks,2
+grenn,tyrion lannister,1
+ser rodrik,tyrion lannister,1
+bran,tyrion lannister,2
+bran,ser rodrik,1
+petyr baelish,queen,1
+jaime lannister,ned stark,5
+eddard stark,littlefinger,1
+catelyn stark,littlefinger,1
+barristan selmy,grace,2
+barristan selmy,tyroshi,1
+robert baratheon,tarly,1
+robert baratheon,tarlys,1
+lancel lannister,robert baratheon,1
+tarly,tarlys,1
+lancel lannister,tarly,1
+lancel lannister,tarlys,1
+grace,lancel lannister,2
+kingslayer,robert baratheon,2
+jaime lannister,robert baratheon,4
+jaime lannister,kingslayer,7
+barristan selmy,toyne,1
+grace,jaime lannister,2
+dothraki,viserys targaryen,6
+benjen stark,jon,1
+benjen stark,lannister,1
+tyrion lannister,yoren,2
+benjen,tyrion lannister,1
+first ranger,tyrion lannister,1
+tyrion lannister,white walkers,2
+lannister,tyrion lannister,14
+dothraki,rakharo,1
+rakharo,vroz,1
+khal bharbo,rakharo,1
+jorah the andal,rakharo,1
+jorah the andal,khal bharbo,1
+jorah mormont,qohor,1
+rhakaro,vaes dothrak,1
+maester aemon,tyrion lannister,1
+maester aemon,starks,1
+jeor mormont,ned stark,1
+jon snow,lannister,2
+snow,tyrion lannister,1
+farewell,jon snow,1
+syrio forel,syrio forel,2
+syrio forel,westeros,1
+lannister,robb stark,3
+bran stark,kneel,1
+bran stark,hodor,25
+hodor,kneel,1
+stark,tyrion lannister,10
+greyjoy,tyrion lannister,2
+balon greyjoy,tyrion lannister,1
+imp,theon greyjoy,2
+jon snow,leg,1
+sam tarly,samwell tarly,1
+sam,sam tarly,2
+sam,sam,2
+jorah mormont,vaes dothrak,1
+khal drogo,viserys targaryen,1
+jorah mormont,robert,3
+jorah mormont,ned stark,2
+doreah,grace,1
+septa mordane,westeros,1
+jeyne poole's,sansa stark,1
+joffrey,septa mordane,1
+hando,janos slynt,1
+janos slynt,stark ser,1
+hand ser,janos slynt,1
+grand maester pycelle,jon,1
+amaryllis umber,eddard stark,1
+eddard stark,jon,1
+arya stark,bran,3
+jon snow,sam,24
+petyr baelish,vale,11
+jon arryn's,petyr baelish,2
+jon arryn's,vale,2
+petyr baelish,spider,1
+petyr baelish,ser hugh,1
+jory cassel,ser hugh,2
+ser hugh,ser hugh,2
+hugh of vale,ser,1
+arryn,eddard stark,1
+jory cassel,stark,2
+greyjoys,jory cassel,1
+jaime lannister,thoros,1
+greyjoy,jaime lannister,1
+jon snow,thorne,1
+sam,thorne,1
+rast,thorne,1
+lady piggy,rast,1
+lady piggy,thorne,1
+daenerys targaryen,hush,1
+daenerys targaryen,irri,2
+hush,irri,1
+jon snow,sally,1
+jon snow,ros,2
+jon snow,sam tarly,1
+jon snow,snow,4
+ros,snow,1
+alliser thorne,mance rayder,2
+alliser thorne,eastwatch,1
+eastwatch,mance rayder,2
+mance rayder,mance rayder,2
+lover,petyr baelish,1
+arya stark,littlefinger,2
+fingers,petyr baelish,1
+hound,petyr baelish,3
+gregor,petyr baelish,4
+hound,hound,4
+gregor,hound,8
+gregor,gregor,6
+cersei lannister,sansa,4
+lady stark,masha heddle,1
+catelyn stark,catelyn tully,1
+catelyn stark,lady whent,1
+catelyn stark,hoster tully,1
+hoster tully,lady whent,1
+catelyn stark,jonas bracken,1
+catelyn stark,king robert,1
+eddard stark,ser hugh,3
+barristan selmy,stark,1
+barristan selmy,the mad king,1
+hando,robert baratheon,1
+eddard stark,lannister,2
+cersei,robert baratheon,1
+jon arryn,robert baratheon,2
+cersei lannister,robert baratheon,2
+king,robert baratheon,1
+cersei,jon arryn,1
+cersei,cersei lannister,1
+cersei,king,1
+jon arryn,king,1
+cersei lannister,king,1
+lys,petyr baelish,1
+littlefinger,renly baratheon,1
+imp,marillion,1
+shadowcat,tyrion lannister,1
+tyrion lannister,vale,6
+lady stark,vale,2
+catelyn stark,lannister,1
+catelyn stark,rodrik,1
+bran stark,lords - the baratheons,1
+house martell,maester luwin,1
+dothraki,maester luwin,1
+theon greyjoy,westeros,1
+stark,theon greyjoy,8
+robert,ros,1
+varys,varys,1
+jon arryn,varys,3
+lys,varys,2
+jon arryn,lys,1
+illyrio mopatis,khal drogo,1
+delay,varys,1
+redwyne,varys,1
+ned stark,petyr baelish,2
+starks,varys,1
+stark,starks,2
+arya stark,arya stark,6
+arya stark,winterfell,7
+yoren,yoren,1
+benjen,eddard stark,1
+benjen,yoren,1
+lady stark,vardis egen,1
+vale,vardis egen,1
+lady arryn,vardis egen,1
+lady arryn,vale,2
+stark,steward,1
+daenerys targaryen,steward,1
+honor,robert baratheon,1
+eddard stark,the mad king,1
+ser jorah mormont,varys,1
+eddard stark,mormont,1
+jorah mormont's,petyr baelish,1
+robert baratheon,speak,1
+dothraki,grand maester pycelle,1
+baelish,jory cassel,1
+grace,petyr baelish,5
+jon arryn,petyr baelish,1
+heward,jory cassel,1
+lysa arryn,robin,1
+lysa arryn,vale,4
+robin,vale,6
+mommy,robin arryn,2
+jon arryn,lysa arryn,1
+jon arryn,vale,3
+jaime,tyrion lannister,5
+lysa arryn,shh,1
+lysa arryn,ser vardis,2
+loras tyrell,stark,1
+renly baratheon,robert,6
+loras tyrell,renly baratheon,1
+renly baratheon,the knight of the,1
+loras tyrell,the knight of the,1
+loras tyrell,robert,1
+joffrey,loras tyrell,1
+joffrey,robert,7
+cersei lannister,ned stark,5
+cersei lannister,dothraki,7
+robert baratheon,viserys targaryen,2
+viserys targaryen,viserys targaryen,1
+dothraki,dothraki,6
+ned stark,robert baratheon,2
+cersei lannister,lyanna stark's,1
+petyr baelish,robert,2
+lannister,petyr baelish,3
+jaime lannister,threaten,1
+jaime lannister,starks,2
+starks,threaten,1
+eddard stark,hand -,1
+catelyn,robert baratheon,1
+eddard stark,jaime lannister,1
+bran stark,dancer,1
+kingslayer,theon greyjoy,1
+bran stark,brandon stark,5
+bran stark,winterfell,1
+brandon stark,winterfell,1
+benjen stark's,osha,1
+mance,osha,1
+benjen stark's,mance,1
+dorne,wildling,1
+bran,theon greyjoy,3
+turnkey,tyrion lannister,1
+lady arryn,tyrion lannister,1
+lady arryn,lannister,1
+lysa arryn,speak,1
+imp,lysa arryn,1
+imp,speak,1
+bran,jon arryn,1
+robin,tyrion lannister,1
+imp,ser vardis,2
+jaime lannister,tyrion lannister,1
+kingslayer,lysa arryn,1
+barriston,grace,1
+renly baratheon,westeros,1
+renly baratheon,the mad king,1
+the mad king,westeros,1
+grace,man,1
+hand,man,1
+man,taller,1
+hand,taller,1
+grand maester pycelle,wel,1
+eddard stark,gregor clegane,1
+eddard stark,inform tywin,1
+lady greyjoy,ros,1
+jaime lannister,ros,1
+ros,stark,1
+ros,steffon,1
+jaime lannister,steffon,1
+stark,steffon,1
+prince joffrey,sansa stark,1
+eddard stark,orys baratheon,1
+axel baratheon,eddard stark,1
+eddard stark,robert baratheon,1
+eddard stark,joffrey baratheon,1
+axel baratheon,orys baratheon,1
+orys baratheon,robert baratheon,1
+joffrey baratheon,orys baratheon,1
+axel baratheon,robert baratheon,1
+axel baratheon,joffrey baratheon,1
+joffrey baratheon,robert baratheon,1
+gregor clegane,jaime lannister,1
+catelyn stark,jaime lannister,4
+ned stark,tywin lannister,1
+kingslayer,tywin lannister,1
+balon greyjoy,theon greyjoy,6
+ranger,sam tarly,1
+jon snow,uncle benjen's,1
+barristan,lord varys,1
+daenerys targaryen,eddard stark,1
+daenerys targaryen,grace,1
+aegon,jorah mormont,1
+jorah the andal,little bird,1
+westeros,wine merchant,1
+sweet,wine merchant,1
+ser,wine merchant,1
+ser,sweet,1
+jeor mormont,uncle,1
+jeor mormont,tarly,1
+jon,sam tarly,2
+jon snow,ranger,1
+sam tarly,wizard,1
+cersei,renly baratheon,1
+catelyn,eddard stark,1
+jorah the andal,khal drogo,1
+barristan,eddard stark,1
+hush,septa mordane,1
+arya stark,meryn trant,3
+lannister,syrio forel,1
+bloody,meryn trant,1
+lord varys,stark,1
+eddard stark,sansa,1
+jafer flowers,othell yarwyck,1
+benjen,jeor mormont,1
+othell yarwyck,snow,1
+jeor mormont,maester aemon,1
+maester aemon,ser alliser,1
+jeor mormont,snow,2
+grand maester pycelle,joffrey,1
+cersei lannister,lady catelyn,1
+robb stark,treason,1
+maester luwin,queen,1
+joffrey,robb stark,9
+hush,lysa arryn,1
+vale,vale,5
+bronn,tyrion lannister,9
+tyrion lannister,uncle,1
+jaime,kevan lannister,1
+catelyn stark's,kevan lannister,1
+catelyn stark's,jaime,1
+starks,tyrion lannister,2
+ned,tyrion lannister,1
+robert baratheon,tywin lannister,1
+kevan lannister,stark,2
+greatjon umber,jaime lannister's,1
+robb stark,winter,1
+grace,grand maester pycelle,1
+grand maester pycelle,janos slynt,1
+grace,janos slynt,1
+barristan selmy,kingsguard,1
+barristan,cersei lannister,1
+cersei lannister,kingsguard,2
+knight,petyr baelish,1
+sansa stark,stark,2
+grand maester pycelle,treason,2
+cersei,varys,5
+joffrey,varys,2
+cersei,joffrey,19
+catelyn stark,walder,5
+grandfather,robb stark,1
+lady stark,stevron frey,1
+tywin lannister,walder frey,1
+lady stark,walder frey,1
+lady stark,tywin lannister,1
+joffrey,walder frey,1
+stark,walder frey,1
+jeor mormont,jorah,1
+jeor mormont,westeros,1
+jorah,westeros,1
+alliser thorne,jeor mormont,1
+jon snow,ser alliser,6
+jeor mormont,thorne,2
+jeor mormont,joffrey,1
+joffrey,thorne,2
+thorne,thorne,1
+nights watcher,snow,1
+maester aemon,sam tarly,1
+robb,sam tarly,1
+maester aemon,robb,1
+catelyn stark,waldron,1
+maester aemon,stark,1
+maekar,maester aemon,1
+aegon,maester aemon,1
+aegon,maekar,1
+daenerys targaryen,drogo,2
+khal,qotho,3
+khal,khal,1
+moon,tyrion lannister,1
+bronn,moon,1
+bronn,ser what's,1
+jorah mormont,westeros,6
+jorah mormont,rein,1
+bronn,lannister,4
+tyrion lannister,tysha,1
+jaime,tysha,1
+jaime lannister,lady stark,6
+kingslayer,robb stark,5
+eddark stark,robert,1
+baelor,eddark stark,1
+baelor,robert,1
+baelor,grand maester pycelle,1
+joffrey lannister,lady sansa,1
+joffrey lannister,ser ilyn,1
+lady sansa,ser ilyn,1
+shut,yoren,1
+bran stark,the mad king,1
+bran stark,robert,2
+robert,the mad king,4
+bran stark,rickon,4
+bran,maester luwin,1
+joffrey lannister,mother,1
+joffrey,jonos bracken,1
+robb stark,robert,1
+lady stark,stark guard,1
+catelyn stark,ser,1
+lancel lannister,robb stark,1
+joffrey,tyrion lannister,21
+robb stark,tyrion lannister,3
+joffrey,ned stark's,1
+ned stark's,robb stark,1
+leo lefford,ser jaime,1
+addam marbrand,kevan lannister,1
+stark,tywin lannister,4
+robert,tywin lannister,3
+robert,stark,2
+riverland,tywin lannister,1
+daenerys targaryen,jorah,4
+joffrey,jon snow,2
+pyp,sam,2
+grand maester pycelle,kings,1
+grand maester pycelle,robert baratheon,1
+kings,robert baratheon,1
+baelish,varys,1
+benjen stark,jeor mormont,1
+benjen stark,snow,1
+announcer,lothor brune,1
+joffrey lannister,ser dontos,1
+hound,tyrion lannister,4
+cersei lannister,slynt,1
+cersei lannister,robb stark,1
+lord,robb stark's,1
+bran stark,joffrey,1
+lannister red,osha,1
+craster,edd,2
+benjen stark,craster,1
+jon snow,jon snow,16
+craster,mance rayder your old,1
+craster,mance rayder,1
+craster,crow,1
+melisandre,stannis baratheon,1
+matthos,robert,3
+joffrey,matthos,2
+cersei lannister,matthos,2
+jaime lannister,matthos,3
+jaime lannister,joffrey,8
+cersei lannister,jaime lannister,4
+jaime lannister,stannis baratheon,2
+kingslayer,stannis baratheon,2
+kingslayer,matthos,2
+stannis baratheon,stark,2
+davos,mace tyrell,1
+davos,randyll tarly,1
+mace tyrell,randyll tarly,1
+davos,robb stark,2
+joffrey,stannis baratheon,2
+robb stark,stannis baratheon,2
+robb stark,westeros,2
+joffrey baratheon,robb stark,1
+joffrey baratheon,westeros,1
+ned stark,tyrion lannister,5
+baelish,cersei lannister,2
+cersei lannister,ned stark's,4
+arya,cersei lannister,1
+arya,ned stark's,1
+robb stark,winterfell,2
+alton,joffrey,1
+balon greyjoy,catelyn stark,2
+greyjoy,robb stark,1
+catelyn stark,greyjoy,2
+catelyn stark,queen,1
+catelyn stark,rickon,3
+bran,rickon,11
+joffrey lannister,uncle jaime,2
+daisy,roz,1
+olsen,roz,1
+daisy,littlefinger,1
+littlefinger,roz,1
+baelish,roz,1
+baelish,littlefinger,1
+petyr baelish,roz,1
+janos,littlefinger,1
+barra,mhaegan,1
+jaime,joffrey lannister,1
+jaqen h'ghar,jaqen hghar,2
+gendry baratheon,yoren,1
+kings landing,varys,1
+ned stark,varys,3
+cersei lannister,starks,1
+sam,wish,1
+gilly,sam,30
+jorah mormont,khal jhaqo,1
+daenerys targaryen,rakharo,1
+podrick,tyrion lannister,6
+littlefinger,tyrion lannister,6
+janos,nasty,1
+robert,tyrion lannister,3
+cersei,tyrion lannister,27
+cersei,robert,1
+janos,joffrey,2
+flea bottom,hot pie,2
+arryn,gendry baratheon,1
+gendry baratheon,stark,1
+arryn,stark,1
+arya stark,stark,8
+arya stark,stupider,1
+arya stark,lommy,2
+arya stark,yoren,2
+greyjoy,yara greyjoy,1
+balon,stark,2
+balon,ned stark's,1
+balon,starks,1
+balon,robb stark's,1
+theon greyjoy,yara,7
+davos,joffrey,2
+davos,lysene,1
+cersei,saan,1
+davos seaworth,saan,1
+cersei lannister,janos slynt,1
+cersei lannister,queen regent,2
+queen regent,tyrion lannister,1
+melisandre,weak,1
+melisandre,shut,1
+shut,weak,1
+craster,jeor,1
+hodor,hodor,92
+hodor,luwin,2
+luwin,rouse bran,1
+hodor,rouse bran,1
+bran,luwin,2
+brienne,kingsguard,5
+brienne,renly,4
+kingsguard,renly,1
+colen,lady catelyn stark,1
+lady catelyn,renly,2
+margaery,renly,2
+lady catelyn,margaery,1
+lady stark,margaery tyrell,1
+joffrey,renly,1
+lady stark,renly,1
+loras,robb stark,1
+gerard,renly,1
+brienne,lady catelyn,5
+catelyn stark,lady brienne,1
+brienne,brienne,2
+balon,ironborn,5
+balon,yara,1
+balon,deepwood motte,1
+deepwood motte,yara,1
+robb stark,theon greyjoy,1
+robert baratheon,theon greyjoy,2
+joffrey,myrcella,1
+mother,myrcella,1
+joffrey,tommen lannister,2
+sansa,tommen lannister,1
+joffrey,sansa,5
+lady zuriff,shae,1
+lady zuriff,sansa stark,2
+matrimony,pycelle,1
+dorne,pycelle,1
+theon greyjoy,varys,1
+robin arryn,tyrion lannister,2
+robin arryn,vale,2
+tyrion lannister,westeros,17
+vale,westeros,1
+janos slynt,petyr baelish,1
+lysa arryn,tyrion lannister,1
+janos slynt,tyrion lannister,1
+janos slynt,lysa arryn,1
+kingsguard,loras,3
+brienne,loras,1
+loras,tyrell,2
+cersei lannister,dorne,6
+dorne,robert baratheon,1
+dorne,tyrion lannister,3
+drowned priest,kneel,1
+martell,petyr baelish,1
+petyr baelish,robin arryn,1
+martell,robin arryn,1
+petyr baelish,robb stark,1
+kingslayer,petyr baelish,2
+littlefinger,robin arryn,1
+jon arryn,tyrion lannister,1
+jon arryn,stark,1
+pycelle,robert,1
+lannister,pycelle,2
+lannister,lannister,2
+lady sansa's,varys,1
+janos slynt,varys,1
+joffrey,ned stark,1
+willem,yoren,2
+willem,willem,1
+ho,yoren,1
+guard,loras tyrell,1
+loras tyrell,rennick,1
+rennick,shh,1
+bolton,robb stark,3
+shh,talisa,1
+talisa,talisa,1
+joffrey,talisa,3
+talisa,volantis,4
+robb stark,volantis,1
+joffrey lannister,ser lancel,1
+lancel,stafford lannister,1
+joffrey lannister,meryn,2
+joffrey lannister,robb stark,3
+imp,meryn,1
+tyrion lannister,uncle jaime,2
+grace,meryn,1
+kingsguard,meryn,1
+grace,kingsguard,2
+baelish,margaery tyrell,1
+kingsguard,margaery tyrell,2
+daenerys targaryen,qarth,2
+arya stark,cersei,14
+hound,joffrey,12
+joffrey,joffrey,11
+cersei,hound,12
+cersei,cersei,4
+joffrey,petyr baelish,6
+petyr baelish,winterfell,5
+lady stark,stannis baratheon,2
+daenerys targaryen,horde,1
+qarth,spice,1
+qarth,spice king,1
+dothraki,spice king,1
+dothraki,qarth,2
+dothraki,xaro,2
+qarth,xaro,3
+kneel,polliver,2
+kneel,kneel,2
+arya stark,safer,1
+imp,lancel,2
+grace,tyrion lannister,1
+cleaner,stannis baratheon,1
+melisandre,onion knight,1
+renly,starks,1
+moat cailin,renly,1
+moat cailin,starks,1
+ned stark,renly,1
+renly,robert,1
+ned stark,robert,5
+renly,stark,1
+cersei lannister,killed,1
+catelyn stark,tyrion lannister,1
+kingsguard,tyrion lannister,5
+tyrion lannister,varys,5
+cersei lannister,littlefinger,3
+stannis baratheon,tyrion lannister,1
+tyrion lannister,wildfire,1
+lancel,lancel lannister,1
+lancel,tyrion lannister,1
+bronn,lancel,1
+davos,lady melisandre,1
+lady melisandre,stannis baratheon,1
+dagmer,dagmer,1
+iron islander,theon greyjoy,1
+reginald,starks,1
+starks,tywin lannister,2
+lannister,tywin lannister,4
+arya stark,barrowton,1
+robb stark,tywin lannister,1
+halfhand,jeor,1
+halfhand,jon snow,3
+sam,westeros,2
+jon snow,qhorin halfhand,2
+dolorous,hurrah,1
+haylene,maegor,1
+aerys targaryen,haylene,1
+tyrion lannister,wisdom haylene,1
+doreah,xaro,1
+doreah,qarth,2
+daenerys targaryen,xaro,2
+pyatt pree,xaro,2
+jorah mormont,quaithe,1
+brienne,catelyn stark,5
+catelyn stark,robb,1
+brienne,robb,1
+rodrik,stark,2
+rodrik,tywin lannister,1
+bran stark,ser rodrik,2
+maester luwin,osha,1
+mance,qhorin,1
+qhorin,snow,1
+craster,qhorin,1
+jon,sam,8
+robert baratheon,xaro,1
+daenerys targaryen,robert baratheon,2
+westeros,westeros,5
+daenerys targaryen,starks,1
+jorah mormont,must-,1
+jorah mormont,qarth,1
+theon greyjoy,winterfell,10
+hodor,theon greyjoy,2
+ned stark,theon greyjoy,3
+betray,theon greyjoy,1
+maester luwin,theon greyjoy,1
+deepwood motte,theon greyjoy,3
+betray,ned stark,1
+maester luwin,ned stark,1
+deepwood motte,ned stark,2
+betray,maester luwin,1
+betray,deepwood motte,1
+deepwood motte,maester luwin,1
+osha,robb stark,1
+ser rodrik,theon greyjoy,3
+luwin,starks,1
+coward,rodrik,1
+hush,rodrik,1
+rodrik,theon greyjoy,1
+marlyn,tywin lannister,1
+baelish,tywin lannister,1
+tywin lannister,wine,1
+catelyn stark,petyr baelish,2
+qhorin,ygritte,1
+qhorin halfhand,ygritte,4
+mance rayder's,qhorin,1
+jon snow,ygritte,21
+sansa stark,winterfell,13
+hail joffrey,man,1
+guard,push,1
+brotherfucker,crowd,1
+clegane,tyrion lannister,2
+spice king,xaro xhoan daxos,1
+spice king,westeros,1
+daenerys targaryen,mopatis,1
+daenerys stormborn,daenerys targaryen,5
+lady talisa,robb stark,2
+catelyn stark,lady talisa,2
+lady stark,talisa,2
+greyjoys,roose,2
+rodrik cassel,roose,1
+roose,winterfell,1
+osha,starks,1
+rickon,theon greyjoy,3
+hodor,rickon,2
+luwin,winterfell,3
+hodor,osha,1
+jack,rickon,1
+billy,rickon,1
+billy,jack,1
+jon snow,ned stark,3
+pretentious,tywin lannister,1
+clegane,mountain,1
+aegon targaryen,tywin lannister,2
+aegon,arya stark,1
+arya stark,meraxes,1
+arya stark,visenya targaryen,1
+arya stark,dark sister,1
+dark sister,visenya targaryen,1
+jonquil,tywin lannister,1
+arya stark,lady dustin,1
+jon snow,mance rayder,9
+mance rayder,ygritte,3
+daenerys targaryen,westeros,6
+queen,sansa stark,1
+joffrey,queen,1
+grace,sansa stark,3
+alton,cinda lannister,1
+jaime lannister,lannister,6
+alton,bryan,1
+barristan selmy,jaime lannister,1
+jorah the andal,quaith,2
+daenerys stormborn,pyat pree,2
+jacks,lady stark,2
+jacks,kingslayer,1
+kingslayer,man,5
+crag,rickard karstark,1
+rickard karstark,treason,1
+lannisters,rickard karstark,1
+lannisters,treason,1
+robert than jaime,tyrion lannister,1
+lannisters,man,1
+brienne,kingslayer,9
+brienne,karstarks,1
+brienne,lannister,3
+karstarks,kingslayer,1
+kingslayer,lannister,1
+karstarks,lannister,2
+catelyn stark,kingslayer,2
+his name,jaime lannister,1
+his name,kingslayer,1
+cersei,jaime lannister,18
+jaime lannister,ned,2
+cersei,ned,1
+envy,theon greyjoy,1
+ironborn,yara greyjoy,3
+stark,yara greyjoy,1
+robb stark,yara greyjoy,1
+robb stark,stark,2
+winterfell,winterfell,3
+halfhand,lord of bones,1
+ned stark's,ygritte,1
+kingslayer,rider,1
+kingslayer,rickard karstark,2
+jaime lannister,robb stark,3
+jaime lannister,jaime lannister,1
+jaime lannister,pardon,1
+joffrey,kevan,1
+cersei,kevan,1
+kevan,robb stark,1
+kevan,winterfell,1
+greyjoys,kevan,1
+kevan,stark,1
+greyjoys,winterfell,1
+stark,winterfell,5
+greyjoys,stark,1
+rorge,yoren,1
+arya stark,tywin,1
+qhorin halfhand,sam,1
+arya stark,jaqen h'ghar,3
+cersei lannister,lannister,5
+joffrey,lannister,1
+cersei lannister,ser mandon,1
+volantis,volantis,2
+gendry baratheon,shut,1
+shut,yara greyjoy,1
+arya stark,shut,1
+onion knight,stannis baratheon,1
+robert,stannis baratheon,8
+ned stark,stannis baratheon,1
+stannis baratheon,westeros,5
+robert,westeros,2
+varys,winterfell,1
+joffrey lannister,uncle stannis,1
+hand,varys,1
+hand,jon arryn,1
+hand,ned stark,1
+jon arryn,ned stark,3
+daenerys targaryen,varys,3
+jorah mormont,xaro,1
+joffrey baratheon,matthos,1
+lannister,soldier,1
+podrick,varys,2
+lady sansa,tyrion lannister,5
+sheila,tyrion lannister,1
+lady sansa,sheila,1
+maegor,tyrion lannister,1
+hearteater,joffrey lannister,2
+robb,sansa stark,1
+hound,joffrey lannister,2
+ser lancel,tyrion lannister,1
+hound,ser lancel,1
+cersei lannister,lady sansa,1
+davos,wildfire,1
+davos,steer,2
+steer,wildfire,2
+steer,steer,1
+cersei lannister,jaime,3
+robert,sansa stark,1
+cersei lannister,lady sansa's,1
+cersei lannister,lorath,1
+cersei lannister,westeros,8
+cersei lannister,shae,1
+faster,man,1
+joffrey lannister,ser mandon,1
+mandon,tyrion lannister,1
+all,halfman,3
+halfman,halfman,3
+kingswood,tommen lannister,1
+cersei lannister,kingswood,1
+find bronn,tyrion lannister,1
+joffrey,joffrey lannister,2
+joffrey lannister,tywin lannister,1
+joffrey,tywin lannister,9
+joffrey lannister,petyr baelish,1
+loras,margaery,3
+joffrey lannister,lady margaery,2
+cersei lannister,sansa stark,2
+crowd,margaery,2
+margaery,margaery,4
+littlefinger,varys,4
+brienne,tullys,2
+jaime lannister,man,1
+stannis baratheon,tywin lannister,1
+ned stark,winterfell,1
+greyjoy,theon greyjoy,2
+hidden,luwin,1
+jon snow,theon greyjoy,3
+luwin,theon greyjoy,1
+ironborn,theon greyjoy,6
+aggar,theon greyjoy,1
+black lorren,theon greyjoy,1
+seagard,theon greyjoy,1
+aggar,black lorren,1
+aggar,ironborn,1
+aggar,seagard,1
+black lorren,ironborn,1
+black lorren,seagard,1
+ironborn,seagard,1
+mandon moore,varys,1
+get bronn,tyrion lannister,1
+leave king's landing,shae,1
+jaqen hghar,joffrey,1
+cersei,jaqen hghar,1
+hound,jaqen hghar,1
+jaqen hghar,valar morghulis,2
+arya stark,valar morghulis,2
+arya stark,jaqen hghar,1
+north,osha,1
+mance rayder,qhorin,1
+mance,ygritte,2
+mance,qhorin halfhand,1
+daenerys targaryen,xaro xhoan daxos,1
+dolorous edd,gilly,1
+jeor,tarly,2
+crow,man,1
+boy,crow,1
+crow,girl,1
+mance,ned stark's,1
+mance,snow,1
+mance,tormund giantsbane,1
+jon snow,mance,9
+mouth,whore,1
+podrick,ser bronn,1
+bronn,ser whosit of whocares,1
+davos,westeros,6
+davos,stannis baratheon,1
+davos,salladhor,1
+kingslayer,roose bolton,1
+catelyn stark,ser jeremy,1
+dorne,sansa stark,3
+dorne,dorne,1
+dorne,shae,2
+baelish,sansa stark,15
+lady sansa,petyr baelish,5
+guard,lady margaery,1
+joffrey,margaery tyrell,5
+cersei lannister,flea bottom,2
+flea bottom,joffrey,1
+kraznys mo nakloz,westerner,1
+kraznys,missandei,8
+jorah mormont,robert baratheon's,1
+jorah mormont,kingsguard,2
+kingsguard,robert baratheon's,1
+barristan,robert,4
+barristan,daenerys stormborn,1
+daenerys stormborn,robert,1
+bolton,talisa,1
+ironborn,robb stark,2
+bolton,ironborn,3
+bolton,bran,1
+bolton,rickon,1
+bran,ironborn,1
+ironborn,rickon,2
+brienne,lady stark's,2
+brienne,lady stark,1
+jaime lannister,lady stark's,4
+jaime lannister,winterfell,1
+jaime lannister,loras tyrell,1
+cersei lannister,tyrell,5
+cersei lannister,margaery,8
+margaery,tyrell,2
+cersei lannister,margaery tyrell,1
+littlefinger,sansa stark,3
+lady sansa,loras,3
+lady olenna,loras,1
+lady olenna,margaery,2
+hando,sansa stark,1
+lady sansa,margaery tyrell,1
+margaery tyrell,olenna,1
+lady sansa,olenna,1
+lady margaery,sansa stark,1
+grandmother,margaery tyrell,10
+olenna tyrell,robert,1
+olenna tyrell,sansa,2
+robert,sansa,2
+luthor,olenna tyrell,4
+joff-king joffrey,sansa stark,1
+olenna tyrell,tyrell,3
+olenna tyrell,speak,1
+margaery,olenna tyrell,2
+dorne,rickard karstark,1
+catelyn stark,maester luwin,1
+catelyn stark,jon snow,1
+mance,orell,1
+grenn,sam,1
+jojen,jojen reed,1
+jojen,meera,1
+brandon,jojen,1
+jojen reed,meera,1
+brandon,jojen reed,1
+brandon,meera,1
+gendry baratheon,jaqen h'ghar,1
+gendry baratheon,joffrey,1
+thoros,thoros,2
+anguy,thoros,2
+thoros,westeros,2
+baelish,shae,1
+baelish,tyrion lannister,1
+ros,tyrion lannister,1
+sansa,tyrion lannister,5
+guard,lady tyrell,1
+torturer,winterfell,2
+osha,rickon,1
+bran stark,howland reed,1
+gendry baratheon,mott,1
+hound,thoros,2
+clegane,thoros,4
+sandor clegane,thoros,1
+sandor clegane,stark,2
+kingslayer,locke,5
+edmure,willem lannister,1
+edmure,martyn lannister,1
+martyn lannister,willem lannister,1
+martyn lannister,robb stark,1
+brynden,martyn,1
+robb stark,varys,1
+hoster tully,varys,1
+roose bolton,varys,1
+hoster tully,robb stark,1
+robb stark,roose bolton,2
+hoster tully,stark,1
+hoster tully,roose bolton,1
+roose bolton,stark,2
+lady arryn,petyr baelish,1
+baelish,pycelle,1
+pycelle,vale,1
+baelish,vale,3
+lysa arryn,tywin lannister,1
+summer,tyrion lannister,1
+brienne,jaime lannister,7
+ned stark's,thoros,1
+hot pie,told thoros,1
+hot pie,stark,1
+stark,told thoros,1
+catelyn stark,uncle,2
+martyn,martyn lannister,1
+martyn lannister,talisa,1
+mance,take orell,1
+tether,woman,1
+push,woman,1
+barristan,jorah mormont,2
+barristan,daenerys targaryen,8
+greizhen,missandei,1
+dothraki,kraznys,2
+dothraki,missandei,4
+daenerys targaryen,kraznys,2
+ser bronn,tyrion lannister,1
+genna,tyrion lannister,1
+tyrion lannister,volantis,3
+meereenese knot,tyrion lannister,1
+meereenese knot,volantis,1
+brienne,lady catelyn stark,1
+catelyn stark's,locke,1
+catelyn stark's,kingslayer,1
+jaime lannister,westeros,3
+proof,varys,1
+craster,rast,1
+sansa stark,varys,2
+littlefinger,littlefinger,1
+beric,joffrey,1
+beric,ned stark,2
+beric,robert,1
+ned stark,sandor clegane,1
+king robert,sandor clegane,1
+king robert,ned stark,1
+beric,lannister,1
+beric,stark,1
+lannister,stark,2
+anguy,mummer,1
+mummer,sandor clegane,1
+aegon,thoros,1
+clegane,sandor clegane,1
+joffrey,sandor clegane,3
+arya stark,burn,1
+orell,tormund,1
+orell,ygritte,1
+jon,ygritte,1
+beric,sandor clegane,1
+bolton,locke,2
+bolton,kingslayer,1
+locke,roose bolton,1
+bolton,jaime lannister,4
+roose bolton,stannis baratheon,1
+roose bolton,ser jaime,1
+arya stark,cersei lannister,2
+lady olenna,tyrion lannister,1
+olenna tyrell,volantis,1
+catelyn stark,karstarks,1
+edmure,karstarks,1
+joffrey,rickard karstark,1
+rickard karstark,stark,1
+joffrey,stark,3
+kneel,robb stark,1
+rickard karstark,robb stark,1
+karhold,robb stark,1
+karhold,rickard karstark,1
+arya stark,ilyn payne,3
+arya stark,ser meryn,1
+ilyn payne,joffrey,3
+joffrey,ser meryn,1
+cersei,ilyn payne,3
+cersei,ser meryn,1
+ilyn payne,ser meryn,1
+hound,ilyn payne,1
+hound,ser meryn,1
+beric,thoros,2
+burn,selyse,1
+jaime lannister,renly,1
+flea bottom,jaime lannister,1
+flea bottom,robert baratheon,1
+flea bottom,the mad king,1
+robert baratheon,the mad king,2
+brienne,stark,2
+ned stark,stark,1
+bert,shireen,1
+bert,davos,1
+shireen,westeros,1
+barristan,mm,2
+jorah mormont,thoros,3
+barristan,thoros,1
+barristan,bloody,1
+bloody,thoros,1
+robert,thoros,1
+bloody,robert,1
+missandei,red flea,1
+black rat,missandei,1
+black rat,red flea,1
+grey worm,grey worm,1
+barristan,ser jorah,1
+karstarks,robb stark,2
+attack king's landing,robb stark,1
+greyjoys,talisa,1
+talisa,winterfell,1
+robb stark,walder frey,1
+karstarks,walder frey,1
+loras,squire,1
+lady margaery,petyr baelish,1
+petyr baelish,sansa,5
+olenna tyrell,tyrion lannister,1
+sansa stark,tywin lannister,4
+karstarks,tywin lannister,1
+theon greyjoy,tywin lannister,1
+tywin lannister,winterfell,2
+karstarks,theon greyjoy,1
+karstarks,sansa stark,2
+karstarks,winterfell,1
+sansa stark,theon greyjoy,2
+tyrell,tyrion lannister,2
+loras tyrell,tywin lannister,4
+hobb,sam,1
+lady reed,osha,1
+jojen,jon snow,2
+nah,ygritte,1
+mance rayder's,ygritte,1
+r'hollor,thoros,1
+melisandre,thoros,1
+melisandre,turn king robert,1
+anguy,bodkin,1
+ramsay bolton,stark,7
+karhold,theon greyjoy,1
+karhold,ramsay bolton,1
+kingslayer,ramsay bolton,2
+rickard karstark,theon greyjoy,2
+black walder,the king of the,1
+freys,robb stark,1
+robb stark,uncle,1
+bolton,brienne,1
+bolton,stark,1
+lady stark's,stark,2
+bolton,lady stark's,1
+brienne,ser jaime,4
+highgarden,tywin lannister,2
+cersei,olenna tyrell,6
+loras,tywin lannister,1
+kingsguard,tywin lannister,4
+kingsguard,kingsguard,1
+tyrell,tywin lannister,2
+margaery,tywin lannister,2
+highgarden,tyrell,1
+joffrey,tyrell,1
+highgarden,joffrey,1
+highgarden,margaery,1
+joffrey,margaery,3
+probably sansa,tyrion lannister,1
+ser mandon,tyrion lannister,1
+kingsguard,ser mandon,1
+lady sansa,maid,1
+the lysa arryn,varys,1
+petyr baelish,sansa stark,4
+brynden,prickly,1
+rytsas,talisa,1
+margaery tyrell,sansa,1
+lannister,margaery tyrell,1
+bronn,stark,2
+radzal mo eraz,westeros,1
+chains,shae,1
+solid,tyrion lannister,1
+sansa stark,tyrion lannister,1
+melisandre,wildfire,1
+flea bottom,gendry baratheon,1
+arya stark,lannisters,1
+anguy,beric,1
+kick,sandor clegane,1
+qyburn,roose bolton,1
+myranda,shh,1
+myranda,violet,1
+windmill,ygritte,1
+bran stark,osha,2
+bran,jojen,3
+bolton,steelshanks walton,3
+sandor clegane,sulk,1
+fuck joffrey,sandor clegane,1
+jorah mormont,mero,1
+daario,daario naharis,4
+mero,mero,1
+half robert,stannis baratheon,1
+davos,vhagar,1
+daario naharis,mero,1
+lady stark's,tyrion lannister,1
+lady stark's,podrick,1
+balon greyjoy,stannis baratheon,1
+joffrey baratheon,stannis baratheon,2
+balon greyjoy,joffrey baratheon,1
+joffrey,olenna tyrell,3
+grandson,olenna tyrell,1
+cersei,grandson,1
+grandson,joffrey,1
+joffrey lannister,lannister,2
+daenerys targaryen,ninteen,1
+daenerys targaryen,dothroaki,1
+athjahakar,missandei,1
+athjahakar,daenerys targaryen,1
+duncan,sam,1
+feldan,sam,1
+sam,tristifer,1
+duncan,feldan,1
+duncan,tristifer,1
+feldan,tristifer,1
+sam,samwell tarly,2
+sam,tarly,1
+samwell tarly,tarly,1
+gilly,samwell tarly,2
+randyll tarly,sam,2
+ironborn,winterfell,2
+rickon,winterfell,3
+grace,walder,1
+walda,walder,1
+derwa,walder,1
+walder,waldra,2
+derwa,walda,1
+walda,waldra,1
+derwa,waldra,1
+marianne,walder,1
+freya,walder,1
+freya,marianne,1
+marianne,waldra,1
+freya,waldra,1
+merry,merry,1
+shirei,walder,1
+grey worm,jorah mormont,1
+bran stark,gift,1
+bran stark,brandon the builder,1
+brandon the builder,gift,1
+gift,maester luwin,1
+brandon the builder,maester luwin,1
+hodor,jojen,3
+bran stark,hush,1
+hodor,hush,1
+bran stark,everything jojen,1
+everything jojen,hodor,1
+daario naharis,daenerys targaryen,4
+bolton,catelyn stark,1
+robb stark,walder,2
+edmure,ho-ho,1
+ned stark,talisa,1
+ser eldrick sarsfield,tyrion lannister,2
+desmond crakehall,tyrion lannister,3
+desmond crakehall,ser eldrick sarsfield,4
+ser eldrick sarsfield,ser eldrick sarsfield,1
+desmond crakehall,desmond crakehall,1
+halfman,tyrion lannister,1
+the demon monkey,tyrion lannister,2
+halfman,the demon monkey,1
+ned stark,sansa stark,1
+tyrion lannister,whom,1
+desmond crakehall,sansa stark,1
+joffrey lannister,robb stark's,1
+robb stark,robb stark's,1
+lady sansa,varys,1
+grand maester,tywin lannister,1
+tywin lannister,westeros,2
+northerners,tyrion lannister,1
+roose bolton,tywin lannister,1
+tywin lannister,warden,1
+sansa,tywin lannister,1
+stark,warden,3
+sansa,stark,3
+roose bolton,winterfell,1
+warden,winterfell,2
+sansa,winterfell,1
+roose bolton,warden,6
+roose bolton,sansa,1
+sansa,warden,1
+bran stark,the rat cook,1
+bran stark,rat cook,1
+hoster,walder frey,1
+catelyn,walder frey,1
+catelyn,hoster,1
+ned stark,walder frey,1
+hoster tully,walder frey,1
+jon arryn,walder frey,1
+hoster tully,ned stark,1
+hoster tully,jon arryn,1
+walder frey,winterfell,1
+greyjoy,walder frey,1
+ironborn,roose bolton,2
+ramsay,roose bolton,1
+ironborn,ramsay,1
+theon greyjoy,theon greyjoy,5
+reek,theon greyjoy,6
+jojen,shush,1
+hodor,sam,1
+jojen,westeros,1
+bran stark,sam,1
+balon,balon greyjoy,1
+balon greyjoy,ironborn,1
+balon,ramsay snow,1
+balon,roose bolton,1
+balon,warden,1
+ramsay snow,roose bolton,2
+ramsay snow,warden,2
+balon,greyjoy,1
+gendry baratheon,ser,1
+davos,flea bottom,5
+davos,gin alley,1
+gendry baratheon,gin alley,1
+myr,varys,1
+lys,myr,1
+black walder,frey soldier,1
+frey soldier,malcolm,1
+frey soldier,talbott,1
+malcolm,talbott,1
+maester aemon,sam,8
+craster,sam,2
+craster,maester aemon,2
+maester aemon,maester aemon,1
+gilly,maester,1
+miles,sam,1
+davos,rylene florent,1
+davos,rylene,1
+rylene,westeros,1
+aegon targaryen,davos,1
+aim,davos,1
+hush,sam,1
+davos,maester aemon,1
+daenerys targaryen,missandei,1
+ghiscari,missandei,1
+tywin lannister,volantis,1
+jaime lannister,kingsguard,9
+jaime lannister,oathbreaker,1
+kingslayer,oathbreaker,1
+house martell,tyrion lannister,1
+grace king joffrey,tyrion lannister,1
+dornish lord,prince oberyn,1
+oberyn,tyrion lannister,7
+littlefinger,oberyn martell,1
+ellaria,oberyn,8
+dornishman,morgan,1
+lannister,oberyn martell,5
+oberyn martell,uncle imp,1
+prince oberyn,tyrion lannister,1
+joffrey,oberyn martell,1
+gregor clegane,oberyn martell,1
+daario naharis,grey worm,1
+oberyn martell,tyrion lannister,1
+mance,tormund,1
+alliser thorne,qhorin halfhand,1
+halfhand,mance,1
+jon snow,tormund giantsbane,1
+jon snow,maester aemon,3
+alliser thorne,maester aemon,1
+jaime lannister,ser preston,1
+kingsguard,ser preston,1
+grace,ser preston,1
+jaime lannister,lady margaery,1
+jaime lannister,ser meryn,1
+jaime lannister,margaery tyrell,1
+arthur dayne,jaime lannister,1
+jaime lannister,ser duncan,2
+arthur dayne,kingsguard,1
+kingsguard,ser duncan,2
+arthur dayne,ser duncan,2
+ser duncan,ser duncan,1
+daario,meereen,5
+daenerys targaryen,meereen,7
+jaime lannister,sansa stark,2
+jaime lannister,sansa lannister,1
+arya stark,sansa stark,2
+arya stark,sansa lannister,1
+sansa lannister,sansa stark,1
+sansa stark,ser dontos,1
+sandor clegane,vale,1
+lommy,sandor clegane,1
+hound,polliver,1
+polliver,robb stark,1
+joffrey,polliver,1
+ramsay bolton,run,1
+ramsay bolton,rip,1
+bold,jaime lannister,1
+roose,walda,2
+ramsay snow,roose,1
+ramsay snow,walda,1
+lady walda,roose,1
+balon greyjoy's,roose,1
+bolton,roose,3
+lannister,roose,2
+ironborn,roose,1
+moat cailin,roose,3
+bolton,lannister,3
+bolton,moat cailin,3
+ironborn,lannister,1
+lannister,moat cailin,2
+ironborn,moat cailin,2
+moat cailin,moat cailin,1
+greyjoy,ramsay bolton,1
+balon greyjoy,roose,1
+ramsay bolton,reek,14
+bolton,ramsay bolton,5
+bran,ramsay bolton,2
+ramsay bolton,rickon stark,3
+bran,reek,1
+reek,rickon stark,1
+bran,rickon stark,1
+reek,stark,1
+ramsay bolton,starks,2
+ramsay bolton,rickon,3
+ramsay bolton,robb stark,2
+bran,starks,1
+rickon,starks,2
+robb stark,starks,2
+reek,robb stark,1
+locke,winterfell,1
+jon snow,locke,1
+gather,roose,1
+bolton,gather,1
+gather,moat cailin,1
+sansa,varys,1
+mace,margaery,1
+baelor,tyrion lannister,1
+man,widow,1
+joffrey lannister,ned stark's,1
+ser axell,shireen,1
+jojen,summer,1
+bran,summer,1
+bran,meera,8
+meera,winterfell,1
+bran,winterfell,2
+margaery,septon,1
+mace,olenna tyrell,1
+lannisters,olenna tyrell,1
+loras,ser jaime,1
+lady brienne,margaery tyrell,1
+brienne,margaery tyrell,1
+cersei lannister,lady brienne,1
+catelyn stark,cersei lannister,3
+cersei lannister,qyburn,3
+pycelle,qyburn,1
+oberyn,tywin lannister,2
+ellaria,oberyn martell,2
+cersei lannister,oberyn martell,1
+hand,oberyn martell,1
+lady cersei,oberyn martell,2
+ellaria sand,oberyn martell,1
+cersei lannister,ellaria,1
+ellaria,hand,1
+ellaria,lady cersei,1
+ellaria,ellaria sand,1
+cersei lannister,hand,1
+cersei lannister,lady cersei,1
+cersei lannister,ellaria sand,2
+hand,lady cersei,1
+ellaria sand,hand,1
+ellaria sand,lady cersei,1
+dorne,ellaria,6
+dorne,oberyn martell,6
+cersei lannister,oberyn,7
+myrcella,oberyn martell,1
+balon greyjoy,joffrey lannister,1
+balon greyjoy,joffrey,1
+balon greyjoy,robb stark,1
+balon dwarf,stark,1
+joffrey lannister,kneel,3
+joffrey lannister,mm,1
+baelish,ser dontos,1
+littlefinger first,ser dontos,1
+mm,tywin lannister,1
+farmer hamlet,sally,4
+farmer hamlet,hoster tully,1
+hoster tully,sally,1
+alliser thorne,sam the slayer,1
+davos,house haigh,1
+hand,shireen,1
+bloody,davos,1
+mace tyrell,tywin lannister,1
+oberyn martell,tyrell,1
+dorne,tywin lannister,1
+greyjoys,tywin lannister,1
+dorne,greyjoys,1
+dorne,westeros,2
+aegon targaryen,dorne,1
+greyjoys,westeros,1
+aegon targaryen,greyjoys,1
+aegon targaryen,westeros,1
+podrick,prince oberyn of dorne,1
+sweet tommen,tyrion lannister,1
+joffrey,sweet tommen,1
+cersei,sweet tommen,1
+fetch bronn,tyrion lannister,1
+mother,olly,1
+jon snow,miles,1
+mance rayder,miles,1
+craster,dolorous edd,2
+dolorous edd,karl,1
+craster,karl,2
+craster,craster,1
+jon snow,karl,1
+daario,queensguard,1
+bronn,lady arryn,1
+kingslayer,tyrion lannister,2
+joffrey,vale,2
+dontos,petyr baelish,1
+dontos,joffrey,1
+olenna tyrell,viola,1
+luthor,viola,2
+luthor,luthor,1
+grenn,jon snow,2
+craster,janos slynt,1
+janos slynt,snow,1
+craster,snow,1
+locke,name,1
+cersei lannister,kingsguards,1
+boros,jaime lannister,1
+catelyn stark,joffrey,1
+catelyn stark's,jaime lannister,1
+kingsguard,tommen lannister,2
+aerys ii,brienne,1
+brienne,robert baratheon,1
+aerys ii,kingsguard,1
+kingsguard,robert baratheon,1
+kingsguard,kingslayer,1
+aerys ii,robert baratheon,1
+aerys ii,kingslayer,1
+jaime lannister,ned stark's,2
+ned stark's,ned stark's,2
+ned stark's,stark,3
+lady stark's,ned stark's,2
+robb,sam,1
+bran,sam,1
+bra,sam,1
+bra,craster,1
+locke,thorne,1
+ahem,jon snow,1
+jon snow,mormont,4
+mance,mance rayder,1
+mance rayder,mormont,3
+mance,mormont,1
+karl tanner,tanner,1
+gin alley,tanner,1
+gin alley,karl tanner,1
+craster,sissy,1
+rast,tanner,1
+jon,meera,1
+highborn,tanner,1
+brandon stark,brandon stark,1
+jon snow,rast,1
+joffrey baratheon,jorah mormont,1
+barristan,joffrey,1
+baelish,knight,1
+baelish,lysa,1
+lady arryn,sansa stark,1
+al,sansa stark,1
+al,lady arryn,1
+mummy,robin,1
+lannister,robin,1
+lysa,robin,4
+robin,robin,1
+robin,sansa stark,4
+lysa,vale,1
+arya stark,tywin lannister,1
+arya stark,thoros,1
+joffrey,meryn trant,3
+joffrey,thoros,1
+cersei,meryn trant,1
+cersei,tywin lannister,1
+cersei,thoros,1
+meryn trant,tywin lannister,1
+meryn trant,thoros,1
+ilyn payne,meryn trant,1
+thoros,tywin lannister,1
+ilyn payne,tywin lannister,1
+ilyn payne,thoros,1
+sandor clegane,westeros,1
+brandon,lysa,1
+lysa,uncle brandon,1
+brandon,uncle brandon,1
+lysa,shh,1
+robin,shh,1
+brienne,lady sansa's,1
+meryn trant,sandor clegane,1
+meryn,sandor clegane,1
+meryn,meryn trant,1
+meryn trant's,sandor clegane,1
+kingsguard,podrick,1
+grenn,karl,1
+flea bottom,grenn,1
+flea bottom,karl,1
+karl,shh,1
+brandon stark,locke,1
+bran stark,jojen,2
+morag,ser crow,1
+craster,morag,1
+craster,ser crow,1
+burn,morag,1
+cersei lannister,stannis baratheon,1
+calm,sallador,1
+lhara,sallador,1
+lhara,lhara,1
+davos,me--,1
+ramsay snow,yara greyjoy,1
+roose bolton,yara greyjoy,1
+warden,yara greyjoy,1
+theon greyjoy,yara greyjoy,4
+yara,yara greyjoy,1
+loyal reek,theon greyjoy,2
+loyal reek,reek,1
+ramsay bolton,theon greyjoy,1
+missandei,queen,2
+hizdahr,queen daenerys,1
+sandor clegane,varys,1
+hound,varys,1
+hound,tywin lannister,1
+jorah mormont,varys,1
+kingsguard,varys,1
+oberyn,varys,1
+lys,oberyn martell,1
+imp,meryn trant,2
+meryn trant,the mad king,1
+imp,joffrey,4
+joffrey,the mad king,2
+imp,imp,1
+imp,the mad king,2
+ser meryn,tywin lannister,2
+lys,pycelle,1
+prince oberyn,pycelle,1
+pycelle,tyrion lannister,1
+dontos hollard,pycelle,1
+pycelle,sansa stark,1
+dontos hollard,sansa stark,1
+jaime lannister,lancel lannister,1
+shae,tyrion lannister,1
+lady sansa,shae,1
+sansa,shae,2
+joffrey,shae,2
+bronn,cersei,2
+lannister,rorge,1
+alliser,coward,1
+alliser,snow,2
+alliser,tarly,1
+snow,tarly,1
+bronn,softer,1
+bronn,lollys stokeworth,1
+lollys stokeworth,tyrion lannister,1
+castle stokeworth,tyrion lannister,1
+selyse,shireen,1
+daario,jorah the andal,3
+daario naharis,jorah mormont,1
+daario,daenerys targaryen,2
+daenerys targaryen,kindness,1
+sandor clegane,shut,1
+brienne,kidney,1
+brienne,sansa stark,5
+hot pie,starks,1
+lady sansa,podrick,3
+lady sansa,lady sansa,1
+hot pie,no sansa stark,1
+hound,podrick,3
+brienne,walder frey,1
+lysa arryn,podrick,1
+catelyn stark's,podrick,1
+catelyn stark's,lysa arryn,1
+mm,tyrion lannister,4
+cersei,oberyn martell,2
+robin,winterfell,2
+lysa,sansa,1
+black jack,grenn,1
+black jack,ed,1
+grey worm,jorah the andal,2
+daenerys stormborn,grey worm,1
+grey worm,missandei,3
+daenerys stormborn,missandei,1
+bracken,ramsay bolton,1
+ralf,theon greyjoy,2
+bolton,ralf,2
+bolton,theon greyjoy,2
+bolton,winterfell,2
+ironborn,ralf,1
+lord royce,vale,1
+petyr,vale,6
+lady arryn,petyr,2
+lord royce,whoremonger,1
+jon arryn,lord royce,1
+lady anya,lady arryn,1
+lady arryn,lord royce,1
+baelish,lady anya,3
+baelish,baelish,5
+lord royce,speak,1
+sansa stark,sansa stark,3
+royce,sansa stark,3
+sansa stark,ser waymar,2
+royce,ser waymar,1
+lord royce,sansa stark,1
+queen cersei,sansa stark,1
+sansa stark,vale,5
+baelish,joffrey,1
+baelish,queen cersei,1
+joffrey,queen cersei,1
+queen cersei,vale,1
+lady anya,sansa,1
+arryn,sansa stark,1
+arryn,baelish,3
+lady sansa,lord royce,1
+baelish,royce,2
+lady anya,shh,1
+baelish,lord royce,1
+jon arryn,petyr,1
+ned stark,petyr,2
+petyr,robert baratheon,1
+petyr,the mad king,1
+ned stark,vale,2
+robert baratheon,vale,2
+the mad king,vale,2
+jon arryn,the mad king,1
+ned stark,the mad king,1
+catelyn stark,petyr,2
+lysa,petyr,1
+catelyn stark,lysa,1
+lady anya,robb stark,1
+baelish,robb stark,1
+petyr,robin arryn,1
+lady anya,robin arryn,1
+petyr,robin,1
+jorah,ser barristan,1
+robert baratheon,ser barristan,1
+moat cailin,ramsay bolton,2
+locke,lord bolton,1
+ironborn,ramsay bolton,1
+ramsay bolton,ramsay snow,1
+ramsay bolton,roose,2
+roose,roose bolton,1
+roose,warden,1
+ramsay bolton,roose bolton,2
+ramsay bolton,warden,6
+hound,sandor clegane,3
+sandor clegane,sandor clegane,1
+arya stark,sandor clegane,3
+lysa arryn,sandor clegane,2
+hound,lysa arryn,1
+arya stark,lysa arryn,1
+guard,lady arryn,1
+robin,uncle petyr,1
+tyrion lannister,wine,1
+jaime lannister,oberyn,1
+orson,tyrion lannister,7
+orson lannister,tyrion lannister,1
+orson,orson lannister,1
+khuu,together,3
+khuu,khuu,4
+khuu,tyrion lannister,2
+khuu,orson,2
+jaime lannister,volarik,1
+orson,orson,3
+oberyn martell,size,1
+pycell,tyrion lannister,1
+elia martell,oberyn martell,3
+elia martell,elia martell,1
+elia martell,mountain,1
+tyrion lannister,tywin lannister,1
+gilly,jon snow,2
+sheila,tormund,1
+crow,styr,1
+aemon,samwell tarly,2
+aemon,jon snow,2
+pyp,thorne,1
+a white walker,pyp,1
+gilly,randyll tarly,1
+randyll tarly,samwell tarly,1
+crows,tormund,1
+alliser,slynt,1
+grenn,ser alliser,1
+sam,ser alliser,2
+ed,jon snow,1
+donnel,jon snow,1
+jeor,jon snow,1
+kullback,mance,1
+mance,wanna,1
+jon snow,wanna,1
+jon snow,ned stark's,4
+bloody martells,cersei lannister,1
+loras tyrell,loras tyrell,3
+loras tyrell,margaery,3
+cersei lannister,loras tyrell,2
+cersei lannister,tywin lannister,1
+missandei,rhoynar,1
+fennesz,little calla,1
+man,valyrian,2
+missandei,valyrian,1
+queen,valyrian,1
+missandei,zala,1
+jon snow,tormund,5
+brandon stark,girl,1
+brandon stark,old man,1
+arya stark,said,1
+lannister,sandor clegane,2
+brienne,sandor clegane,1
+ilyrio mopatis,varys,1
+robert baratheon,varys,2
+varys,westeros,4
+ilyrio mopatis,robert baratheon,1
+ilyrio mopatis,westeros,1
+robert baratheon,westeros,1
+grey worm,white rat,1
+missandei,torgo nudho,2
+missandei,white rat,1
+jon snow,melisandre,8
+jon snow,roose bolton,1
+robb stark's,stannis baratheon,1
+lannister,stannis baratheon,1
+bolton,stannis baratheon,3
+stannis baratheon,winterfell,2
+lannister,winterfell,1
+mance,stannis baratheon,1
+hurry,stannis baratheon,1
+jon snow,stannis baratheon,3
+hurry,jon snow,1
+petyr baelish,robin,1
+podrick,sansa,1
+podrick,stark,2
+petyr baelish,royce,2
+cersei lannister,petyr baelish,1
+cersei lannister,cousin lancel,2
+cersei lannister,uncle,3
+dorne,olyvar,2
+olyvar,sunsnake,1
+olyvar,stonespear,1
+stonespear,sunsnake,1
+dorne,loras,2
+cersei,loras,1
+cersei lannister,loras,1
+imp,varys,1
+kingslayer,varys,1
+daario,tolos,1
+daario,dothraki,5
+mance rayder,stannis baratheon,3
+mance rayder,westeros,1
+kneel,stannis baratheon,2
+arya stark,walder frey,1
+cersei,walder frey,2
+podrick,sansa stark,2
+petyr baelish,podrick,1
+brienne,littlefinger,3
+brienne,bunch,1
+baelish,brienne,1
+brienne,lady sansa,6
+baelish,lady sansa,1
+lady brienne,petyr baelish,3
+catelyn stark's,petyr baelish,1
+catelyn stark's,lady brienne,1
+alone--,brienne,1
+alone--,lady sansa,1
+brienne,podrick,4
+jaime lannister,softer,1
+dorne,jaime lannister,6
+lollys,stokeworth,1
+bronn,ser wyllis bracken,1
+doran,oberyn,4
+ellaria,lannister,1
+lannister,oberyn,1
+barristan,meereen,1
+meereen,mossador,1
+daenerys stormborn,mossador,1
+daenerys stormborn,meereen,1
+barristan,the mad king,2
+barristan,kingsguard,1
+barristan,wildfire,1
+varys,volantis,2
+cersei lannister,ser meryn,1
+cersei lannister,uncle kevan,2
+lannister,uncle kevan,1
+osric stark,sam,1
+gilly,ostrich stark,1
+gilly,shireen,1
+lyanna mormont,stannis baratheon,1
+robert went,stannis baratheon,1
+davos,ser alliser thorne,1
+davos,thorne,2
+jon stark,stannis baratheon,1
+jon stark,kneel,1
+jon snow,winterfell,10
+alliser thorne,janos,1
+janos,sam the slayer,1
+janos,jon snow,1
+janos,slayer,1
+jon snow,slayer,1
+sam,slynt,1
+gilly,slynt,1
+mance rayder,sam,1
+mormont,sam,2
+jon,mance rayder,1
+jon,mormont,2
+mormont,mormont,1
+alliser,jon snow,2
+alliser,mance rayder,1
+brothers,jon snow,4
+grey worm,mossador,1
+bystanders,margaery,3
+margaery,tommen lannister,5
+husband,margaery tyrell,1
+margaery tyrell,mother,1
+cerwyn,ramsay bolton,3
+cerwyn,stark,2
+roose,tywin lannister,1
+bolton,tywin lannister,1
+moat cailin,sansa stark,2
+roose bolton,sansa stark,2
+ned,petyr baelish,1
+ned,sansa stark,1
+catelyn stark,sansa stark,1
+petyr baelish,roose bolton,2
+jon snow,jon stark,1
+jon snow,mance rayder's,1
+stannis baratheon,tormund,1
+alliser thorne,stannis baratheon,1
+jaqen hghar,stark,3
+arya stark's,jaqen hghar,1
+arya stark's,stark,3
+lady sansa,roose,2
+bolton,sansa stark,2
+lady stark,woman,1
+brian,jon snow,1
+first ranger,jon snow,2
+first ranger,ser alliser,1
+janos,scum,1
+maiden,septon,1
+maiden,olyvar,1
+grandmaester,septon,1
+septon,tyrell,1
+grandmaester,tyrell,1
+septon,the high septon,1
+littlefinger,qyburn,1
+hypocrisy,sparrow,1
+cersei lannister,septon,2
+baelish,roose,2
+petyr baelish,queen margaery,1
+cersei,petyr baelish,7
+petyr baelish,queen mother,1
+queen margaery,sansa,1
+cersei,queen margaery,2
+queen margaery,queen mother,1
+cersei,sansa,1
+queen mother,sansa,1
+cersei,queen mother,1
+cersei lannister,roose,1
+roose,vale,1
+cersei lannister,vale,2
+roose,westeros,1
+baelish,westeros,1
+petyr baelish,robb stark's,1
+petyr baelish,warden,2
+robb stark's,warden,1
+varys,volantene,1
+thoros,tyrion lannister,1
+jaime lannister,oldtown,1
+bronn,dorne,3
+kingsguard,mace,1
+cersei lannister,queen,1
+ned stark's,stannis baratheon,1
+lady caulfield,sam,1
+roose bolton,sam,1
+sam,watchers,1
+melisandre,winterfell,1
+petyr baelish,whent,1
+petyr baelish,robert baratheon,1
+lyanna,petyr baelish,1
+elia martell,petyr baelish,1
+robert baratheon,whent,1
+lyanna,whent,1
+robert,whent,1
+elia martell,whent,1
+lyanna,robert baratheon,1
+robert,robert baratheon,1
+elia martell,robert baratheon,1
+lyanna,robert,2
+elia martell,lyanna,1
+elia martell,robert,1
+bolton,petyr baelish,2
+petyr baelish,ramsay,1
+bolton,ramsay,3
+bronn,oldtown,1
+bronn,jaime lannister's,1
+dorne,jaime lannister's,1
+bronn,glad,1
+bronn,darnell,1
+bronn,flea bottom,1
+elaria,nym,2
+elaria,obara,2
+nym,obara,2
+elaria,oberyn,1
+cersei,elaria,1
+jaime lannister,obara,1
+dorne,obara,2
+doran,elaria,1
+obara,oberyn,1
+daenerys targaryen,jorah mormont,1
+jorah mormont,tyrion lannister,2
+barristan,flea bottom,1
+brienne,sansa,2
+man,starks,1
+ramsay bolton,snow,1
+bolton,snow,1
+lady sansa,theon greyjoy,2
+ramsay,walda,1
+lady sansa,ramsay bolton,1
+lady sansa,reek,1
+roose,stark,2
+oldtown,sam,2
+gilly,maester aemon,1
+samwell tarly,stannis baratheon,2
+randyll tarly,stannis baratheon,1
+randyll tarly,robert,1
+davos,jon snow,9
+bolton,jon snow,1
+barristan,grey worm,1
+barristan,daario naharis,1
+doom,tyrion lannister,2
+doom,doom,1
+doom,jorah mormont,1
+waif,westeros,1
+arya stark,westeros,4
+westeros,winterfell,1
+stark,westeros,1
+hurrah,tyrion lannister,1
+hurrah,westeros,1
+jorah mormont,queen daenerys,1
+jorah mormont,qotho,1
+baelish,lancel,2
+lancel lannister,petyr baelish,1
+lancel,lancel,1
+lancel,petyr baelish,1
+cersei lannister,lysa arryn,1
+arya stark,petyr baelish,1
+arya stark,grace,1
+grace,winterfell,1
+cersei lannister,roose bolton,2
+cersei lannister,warden,1
+cersei lannister,winterfell,1
+petyr baelish,uncle kevan,1
+cersei lannister,sansa stark's,1
+doran,lannister,1
+doran,martell,1
+lannister,martell,2
+bronn,dornishman,6
+dornishman,dornishman,6
+oberyn,sand snakes,1
+myrcella,uncle jaime,1
+trystane,trystane martell,1
+myrcella,trystane,2
+ser jaime,trystane,1
+areo,drop,1
+obara,obara sand,1
+obara,oberyn martell,1
+obara sand,oberyn martell,1
+dorne,obara sand,1
+cersei,margaery tyrell,2
+cersei lannister,olenna tyrell,2
+olenna tyrell,queen cersei,1
+cersei lannister,lady olenna,1
+joffrey,sparrow,1
+joffrey,loras,1
+queen margaery,sparrow,6
+olyvar,queen margaery,1
+myranda,ramsay,2
+hunt,sansa stark,1
+mm,myranda,1
+aegon,sam,1
+balon greyjoy,sansa stark,1
+aemon targaryen,sam,1
+jon snow,ramsay bolton,3
+ramsay bolton,winterfell,3
+joffrey baratheon,melisandre,1
+derryk,sam,1
+bran stark,sam the slayer,1
+derryk,jon snow,1
+daario,mereen,1
+lady olenna,sparrow,2
+lady olenna,squire,1
+areo,doran,1
+bronn,bur,1
+bur,dornishman,3
+dorne,tyene,1
+asshei,tyene,1
+the long farewell,tyene,1
+asshei,the long farewell,1
+baelish,olenna tyrell,1
+tyrion lannister,tyrion lannister,1
+cersei lannister,venison,1
+cersei lannister,high septon,1
+baelor,sparrow,2
+joanna lannister,tyrion lannister,1
+joanna lannister,lannister,1
+jorah,tyrion lannister,2
+arya stark,lana,1
+arya stark,iit,1
+arya stark,lhara,1
+arya stark,lane--,1
+iit,lhara,1
+iit,lane--,1
+lane--,lhara,1
+arya stark,ragman lane,1
+jaqen hghar,ragman lane,1
+jaqen hghar,ragman harbor,1
+ragman harbor,ragman lane,1
+qyburn,the high sparrow,1
+qyburn,uncle kevan,1
+queen margaery's,qyburn,1
+reek,sansa stark,1
+captured winterfell,theon greyjoy,1
+bran,sansa stark,9
+rickon,sansa stark,7
+daenerys targaryen,robert,3
+daenerys targaryen,stark,2
+septa,thirsty,1
+lord of bones,tormund,1
+crow,jon snow,1
+loboda,mance,1
+jon snow,the long night,1
+mance,the long night,1
+karsi,tormund,1
+crow,wildling elder,1
+king crow,loboda,1
+johnna,karsi,1
+lokh,wun wun,1
+tormund,wun wun,1
+davos,queen,1
+shireen,vhagar,1
+myrcella,uncle,1
+jaime lannister,prince trystane,2
+doran,dorne,3
+doran,trystane,2
+dorne,oberyn,1
+dorne,trystane,2
+oberyn,trystane,1
+ellaria,kingslayer,1
+doran,ser jaime,1
+bronn,jaime lannister,3
+mace,maegor,1
+banker,tyrell,1
+brusco,prostitute,1
+anara,head,1
+aegon,shireen,1
+announcer,queen,1
+hizdahr,kings,1
+hizdahr,meereen,1
+daenerys targaryen,valahd,1
+bolton,melisandre,1
+speak,stannis baratheon,1
+gilly,oldtown,3
+edd,sam,4
+maester aemon's,sam,1
+podrick,stannis baratheon,1
+ramsay,sansa stark,6
+myranda,warden,1
+ramsay,warden,1
+arya stark,syrio forel,1
+jaime lannister,trystane,2
+jorah mormont,torgo nudho,1
+rusty,tyrion lannister,1
+daario,queen,1
+daario,jorah,2
+jorah,queen,2
+jorah,jorah,1
+meereen,meereen,2
+daario,missandei,1
+jorah the andal,missandei,1
+cersei lannister,lancel lannister,1
+king robert,sparrow,1
+kingsguard,qyburn,1
+olly,uncle benjen,1
+benjen,jon snow,1
+olly,ranger,1
+dolorous edd,thorne,2
+alliser thorne,jon snow,3
+alliser thorne,bowen marsh,1
+alliser thorne,othell yarwyck,1
+bowen marsh,othell yarwyck,1
+dolorous edd,jon,1
+davos,snow,1
+bolt,dolorous edd,1
+roose,sansa stark,3
+lannister,sansa stark,1
+roose,without sansa,1
+lady walder,roose,1
+sansa sansa,theon greyjoy,1
+jon,theon greyjoy,1
+bolton officer,lady bolton,1
+dorne,handmaiden,1
+septa unella,sparrow,2
+doran,lay,1
+lay,oberyn,1
+elia martell,ellaria,1
+elia martell,oberyn,1
+meereen,tyrion lannister,6
+daenerys targaryen,tyrion lannister,1
+queen daenerys,red priest,1
+bloodrider,khal moro,1
+bloodrider,vaes dothrak,1
+khal moro,khal moro,1
+daenerys targaryen,khal bharbo,1
+khal,khal moro,1
+vaes dothrak,wife,1
+edd,nights watchman,1
+dolorous edd,nights watchman,1
+ned,young rodrik,1
+bran stark,uncle benjen,3
+ned,young lyanna,1
+wylis,young ned,1
+benjen,young lyanna,1
+bran stark,wylis,2
+brandon stark,child of forest,1
+queen cersei,storyteller,1
+jaime lannister's,storyteller,1
+tommen lannister,trystane,1
+missandei,queen daenerys,1
+missandei,tyrion lannister,2
+missandei,westeros,1
+roose,sansa,1
+lord karstark,ned stark's,1
+jon snow,roose,1
+lord karstark,stark,1
+manderlys,ramsay bolton,1
+lord karstark,starks,1
+lord karstark,rob,1
+rob,starks,1
+lady walda,maester wolkan,1
+bolton,lord karstark,1
+lady walda,ramsay bolton,1
+bolton,lady walda,3
+lady walda,ramsay,3
+ramsay,ramsay,2
+lady walda,winterfell,1
+rob,theon greyjoy,1
+deepwood motte,yara greyjoy,2
+aeron,ironborn,1
+davos,seven gods,1
+melisandre,stannis,1
+gilly,oldtown captain,1
+little sam,sam tarly,1
+a jon snow,sam tarly,1
+howland reed,threeeyed raven,1
+arthur dayne,bran stark,1
+arthur,stark,1
+bran stark,learn,1
+bloodrider,great khaleesi move,1
+dothraki matron,khal drogo,1
+daenerys targaryen,dosh khaleen,1
+vala,varys,2
+vala,vala,1
+arthur how's,qyburn,1
+dorne,qyburn,1
+cersei lannister,varys,1
+grace,qyburn,1
+maester pycelle,qyburn,1
+gregor clegane,maester pycelle,1
+house martell,jaime lannister,1
+dorne,house martell,1
+grace,sparrow,2
+stark,waif,1
+arya stark,catelyn stark,1
+arya stark,sansa,3
+catelyn stark,sansa,1
+arya stark,rob,1
+arya stark,rickon,1
+bran,rob,1
+rickon,rob,1
+hound,waif,1
+arya stark,gregor clegane,1
+cersei lannister,gregor clegane,1
+jon snow,smalljon,2
+lord karstark,winterfell,1
+knelt,smalljon,1
+rickon stark,smalljon,1
+alliser throne,betray,1
+jon snow,wear,1
+edd,jon snow,1
+sansa stark,warden,3
+davos,shireen,1
+baelish,yohn royce,1
+sansa stark,yohn royce,1
+royce,vale,1
+gather,petyr baelish,1
+gather,vale,1
+razdal,westeros,1
+tyrion lannister,unburnt,1
+man,meereen,1
+jorah mormont,khal drogo,1
+dothraki,leader,2
+daenerys targaryen,mm,1
+dosh khaleen,lhazareen woman,1
+lhazareen woman,vaes dothrak,1
+dosh khaleen,vaes dothrak,1
+cersei lannister,kings,1
+cersei lannister,the high sparrow,1
+kings,margaery,1
+margaery,the high sparrow,2
+kings,the high sparrow,1
+jaime lannister,queen margaery,2
+cersei lannister,queen margaery,1
+margaery,queen margaery,1
+jaime lannister,margaery,3
+jaime lannister,the high sparrow,1
+cersei lannister,lancel,1
+pyke castle,theon greyjoy,1
+pyke,yara greyjoy,1
+jon snow,sansa stark,5
+dolorous edd,sansa stark,2
+dolorous edd,jon snow,4
+dolorous edd,dolorous edd,1
+jon snow,rickon,3
+ramsay bolton,sansa stark,1
+jon snow,warden,3
+dosh khaleen,khal moro,1
+khal drogo,khal moro,1
+sansa stark,unharmed,1
+ned stark's,sansa stark,2
+brynden,petyr baelish,1
+lady stark,waif,1
+jaqen hghar,lady crane,1
+cersei,izembaro,1
+bobono,ned stark,1
+joffrey,lady crane,1
+bobono,lady crane,2
+arya stark,lady crane,3
+yara greyjoy,yara greyjoy,1
+balon greyjoy,yara greyjoy,2
+westeros,yara greyjoy,2
+euron greyjoy,euron greyjoy,1
+uncle,yara greyjoy,1
+euron greyjoy,westeros,4
+ironborn,yara,2
+ironborn,ironborn,1
+aeron,euron,1
+aerson,euron greyjoy,1
+daenerys targaryen,jorah the andal,1
+daenerys stormborn,kinvara,1
+hodor,meera,10
+jon snow,walkers,1
+walkers,winterfell,2
+davos,starks,1
+davos,karstarks,2
+davos,manderlys,1
+karstarks,starks,1
+manderlys,starks,1
+karstarks,manderlys,1
+karstarks,rickon,1
+northerners,sansa stark,1
+davos,jon,1
+davos,stark,2
+sansa stark,tullys,1
+ned stark's,tullys,1
+davos,tullys,1
+ramsay,winterfell,1
+jon,sansa stark,2
+jon snow,sansa,2
+comman,dolorous edd,1
+boiled,meera,1
+rickard,vale,1
+bran,hodor,3
+hodor,young hodor,7
+gilly,little sam,1
+little sam,sam,2
+melessa,sam,2
+symun fossoway,talla,1
+gilly,lady tarly,1
+sam,samwell,1
+dickon,sam,1
+margaery tyrell,sooner,1
+dickon,mm,1
+edd,gilly,1
+all,hail king joffrey,1
+all,hail queen margaery,1
+hail king joffrey,hail queen margaery,1
+clarenzo,uncle imp,1
+bianca,izembaro,1
+bobono,izembaro,1
+izembaro,lady crane,1
+bianca,lady crane,1
+izembaro,nedo,1
+margaery,sparrow,1
+sparrow,tyrell,1
+margaery,woman,1
+robb stark's,walder,1
+jaime lannister,walder frey,1
+jon,uncle benjen,1
+benjen,children,1
+benjen,walkers,1
+daario,westeros,2
+meereen,westeros,2
+daario,daenerys stormborn,2
+ray,sandor clegane,1
+margaery tyrell,septa unella,1
+jon snow,karstarks,2
+lothar,ser jaime,1
+jon snow,lady mormont,2
+jon snow,lady lyanna,1
+lyanna,stark,2
+lady sansa,lyanna,1
+bolton,lyanna,1
+lannister,lyanna,1
+bolton,lady sansa,1
+lady sansa,lannister,1
+jon snow,rickon stark,1
+rickon stark,winterfell,1
+davos,mormont,1
+davos,north,1
+brynden,kingslayer,3
+brynden,sansa,1
+ironborn,robett,2
+theon greyjoy,uncle euron,1
+sweet,woman,1
+lady crane,shut,1
+bronn,podrick,1
+mm,podrick,1
+jaime lannister,sansa,3
+brienne,robb stark,1
+jaime lannister,lady brienne,3
+bryndel,kingslayer,1
+brienne,catelyn,1
+catelyn,catelyn stark,1
+brynden,winterfell,1
+brynden,jaime lannister,1
+loras tyrell,tommen lannister,2
+cersei,tommen lannister,1
+cersei,loras tyrell,1
+cersei lannister,tommen lannister,1
+delight,tyrion lannister,1
+martell,tyrion lannister,2
+martell,stark,1
+grey worm,starks,1
+catelyn,jaime lannister,1
+catelyn,cersei,1
+edmure,hoster tully,1
+brynden,riverrun,1
+beric,clegane,3
+daenerys stormborn,tyrion lannister,1
+lady bolton,ramsay bolton,1
+lady bolton,winterfell,1
+lady bolton,warden,1
+rest,tormund,1
+jon snow,rest,1
+ned starks,sansa stark,1
+ned starks,rickon,1
+ramsay,rickon,2
+ned starks,ramsay,2
+bolton,tormund,1
+ramsay bolton,sansa,1
+loras,sparrow,2
+jaime lannister,ser bronn of the blackwater,1
+tullys,walder,1
+starks,walder,2
+starks,tullys,1
+robb stark,tullys,1
+sam,snow,1
+jeor mormont,maester,1
+jon snow,vale,2
+baelish,jon snow,1
+littlefinger,vale,1
+dorne,olenna tyrell,1
+dorne,tyrell,1
+ellaria,lady olenna,1
+daario,fuck meereen,1
+daenerys targaryen,hand of the queen,1
+black walder,walder,1
+black walder,handmaiden,1
+ned,petyr,1
+lyanna,ned,4
+ned,robert,1
+vale,vale knight,1
+cerwyn,lyanna,1
+lyanna,ramsay bolton,1
+lyanna,ned stark's,1
+cerwyn,ned stark's,1
+ned stark's,ramsay bolton,1
+lady mormont,manderly,1
+manderly,robb stark,1
+manderly,manderlys,1
+jon snow,manderly,1
+lady mormont,robb stark,1
+lady mormont,manderlys,1
+manderlys,robb stark,1
+jon snow,robb stark,1
+jon snow,manderlys,1
+glover,jon snow,1
+glover,the king,1
+jon snow,the king,1
+cersei,qyburn,1
+walder,walder frey,1
+meera,meera reed,1
+howland reed,meera,1
+brandon stark,meera,1
+meera,ned stark,1
+howland reed,meera reed,1
+brandon stark,meera reed,1
+meera reed,ned stark,1
+brandon stark,howland reed,1
+howland reed,ned stark,1
+brandon stark,ned stark,1
+eastwatch,jon snow,2
+jon snow,karhold,1
+karstarks,yohn,1
+karhold,sansa stark,1
+harald karstark,jon snow,1
+jon snow,ned umber,1
+cersei,sansa stark,6
+cersei,jon snow,6
+cersei lannister,daenerys targaryen,2
+cersei lannister,olenna,1
+dothraki,tyrell,1
+freys,jaime lannister,1
+greyjoys,jaime lannister,3
+cersei lannister,euron greyjoy,6
+ironborn,jaime lannister,1
+greyjoys,lannister,1
+marwyn,samwell tarly,1
+aegon targaryen,marwyn,1
+aegon targaryen,samwell tarly,1
+hound,petyr,1
+baelor,man,1
+sandor,thoros,4
+daenerys stormborn,jorah mormont,2
+conquering westeros,tyrion lannister,1
+cersei,tyrell,1
+robert,varys,3
+the mad king,varys,1
+daenerys targaryen,daenerys targaryen,1
+daenerys targaryen,proven,1
+grey worm,varys,1
+melisandre,queen daeneys,1
+jon snow,tyrion lannister,9
+jon snow,varys,3
+melisandre,summon jon snow,1
+daenerys targaryen,jon snow,9
+davos,dothraki,2
+cersei lannister,the iron throne,1
+cersei lannister,the mad king's,1
+the iron throne,the mad king's,1
+dothraki,the iron throne,1
+olenna tyrell,the iron throne,1
+dothraki,the mad king's,1
+olenna tyrell,the mad king's,1
+dothraki,olenna tyrell,1
+jaime lannister,rickon,2
+dickon,dickon,3
+hornhill,jaime lannister,1
+randyll,ser jaime,1
+olenna tyrell,randyll,1
+olenna,randyll,1
+dothraki,jaime lannister,5
+jaime lannister,randyll tarley,1
+greyscale,sam tarly,2
+knight,marwyn,1
+jorah,jorah mormont,2
+daenerys targaryen,lady olenna,2
+cersei,daenerys targaryen,11
+dothraki,tyrion lannister,7
+cersei,westeros,2
+lady greyjoy,tyrion lannister,1
+grey worm,tyrion lannister,1
+dorne,ellia,1
+olenna tyrell,westeros,1
+sam tarly,ser jorah,2
+archmaester pilos,sam tarly,1
+greyscale,ser jorah,1
+archmaester pilos,ser jorah,1
+archmaester pilos,greyscale,1
+archmaester pylos,marwyn,1
+jorah mormont,sam tarly,1
+sam tarly,samwell tarley,1
+samwell tarley,ser jorah,1
+rum,sam tarly,1
+sam tarly,shh,1
+cersei,man,1
+ary,hot pie,1
+hot pie,jon snow,1
+my king,wolkan,1
+jon snow,samwell tarley,1
+cersei lannister,jon snow,2
+jon snow,white walkers,2
+lady sansa,yohn royce,1
+lady catlyn,petyr baelish,1
+my king,petyr baelish,1
+my king,sansa,1
+momma,tyene,3
+cersei,tyene,1
+cersei,momma,1
+cersei,obara,1
+momma,obara,2
+momma,momma,1
+knight,tyrion lannister,1
+melisandre,volantis,1
+missandei,unburnt,1
+a flea bottom,davos,1
+a flea bottom,jon snow,1
+daenerys targaryen,torren stark,2
+aegon targaryen,daenerys targaryen,1
+aegon targaryen,torren stark,2
+torren stark,torren stark,1
+daenerys targaryen,warden,2
+warden,warden,1
+cersei,davos,1
+davos,jon snow king,1
+dothraki,jon snow king,1
+jon snow king,westeros,1
+dothraki,westeros,1
+queen daenerys,tyrion lannister,1
+jon snow,the mad king,1
+iron born,varys,1
+dorne,varys,1
+dorne,iron born,1
+ellaria,varys,1
+greyjoys,varys,1
+ellaria,greyjoys,1
+euron greyjoy,jaime lannister,3
+ellaria sand,oberyn,1
+euron greyjoy's,tycho,1
+daenerys targaryen,tycho,1
+daenerys targaryen,white walkers,1
+daenerys targaryen,vicerys,1
+guard,lady sansa,1
+daenerys targaryen,euron greyjoy's,1
+euron greyjoy's,jaime lannister,2
+euron greyjoy's,westeros,1
+jaime lannister,widow,1
+kingsguard,olenna tyrell,1
+cersei,kingsguard,1
+daenerys targaryen,jaime lannister,1
+bronn,queen cersei's,1
+dickon,randyll,1
+lannister,randyll,2
+bran stark,peter baelish,1
+brandon,petyr baelish,1
+bran stark,stark,1
+meera,summer,1
+hodor,summer,1
+arya stark,ser rodrick,2
+man,rodrick,1
+arya stark,jon snow,2
+lady stark,man,2
+arya stark,lady stark,3
+lady sansa,man,1
+man,ser rodrick,1
+arya stark,jon,1
+jon,lady stark,1
+bran stark,cersei,1
+bran stark,littlefinger,1
+catelyn stark,podrick,1
+daenerys targaryen,dorne,1
+arya stark,brienne,1
+davos,king snow,1
+jon snow,missandei,1
+missandei,ned stark,1
+greyjoy,jon snow,1
+iron born,theon greyjoy,1
+dothraki,theon greyjoy,1
+iron born,jon snow,1
+dothraki,iron born,1
+dothraki,jon snow,2
+dickon tarley,randyll,1
+bronn,dickon,1
+jaime lannister,lady olenna,1
+drogon,lannister,3
+dickon,drogon,2
+dothraki screamers,drogon,1
+dickon,lannister,2
+dothraki screamers,lannister,1
+dickon,dothraki screamers,1
+jaime lannister,qyburn,1
+lannisters,tyrion lannister,1
+dothraki,lannisters,2
+dothraki,lannister,2
+dothraki,randyll,1
+dickon,dickon tarley,1
+dickon,randyll tarley,1
+dickon tarley,randyll tarley,2
+daenerys targaryen,dickon,2
+dickon,dothraki,2
+daenerys targaryen,randyll tarley,1
+daenerys targaryen,dickon tarley,1
+jaime lannister,olenna,3
+jaime lannister,margerey,1
+joffrey,olenna,2
+margerey,olenna,2
+olenna,olenna,1
+joffrey,margerey,1
+daenerys targaryen,ser jorah mormont,1
+jon snow,ser jorah mormont,1
+bran stark,ravens,1
+brandon stark,sam tarly,1
+sam tarly,westeros,1
+davy moonstone,maester,1
+aegon the conquerer,maester,1
+davos,ser jorah,1
+vale,yohn,1
+lady stark,yohn,1
+bronn,dothraki,1
+clovis,davos,1
+guard,wine,1
+guard,queen cersei,1
+bronn,cersei lannister,1
+cersei lannister,dragon queens,1
+gendry,gendry baratheon,1
+gendry baratheon,robert baratheon's,2
+gendry,robert baratheon's,1
+sam,sam jr,1
+gilly,septon meynard,1
+gilly,meynard,1
+sam tarly,septon meynardo,1
+sam jr,sam tarly,1
+lady stark,petyr baelish,1
+hound,jon snow,1
+mance rayder,tormund,1
+jon snow,long claw,1
+jon snow,westeros,1
+mormont,westeros,1
+arya stark,rodrick,1
+bran,ser rodrick,1
+rodrick,ser rodrick,1
+bran,rodrick,1
+arya stark,robert,2
+robert,septa mordane,1
+knight,sansa stark,1
+knight,winterfell,1
+vale,winterfell,1
+knight,vale,1
+arya stark,lady sansa,1
+arya stark,lyanna mormont,1
+cersei,lady sansa,1
+lady sansa,lyanna mormont,1
+cersei,lyanna mormont,1
+dick,tormund,2
+cock,sandor,1
+brienne,sandor,1
+daenerys targaryen,dario,1
+dario,jon snow,2
+dario,tyrion lannister,1
+bronn,brother--,1
+lannister,sandor,1
+jon snow,queen daenerys,2
+jon,petyr baelish,2
+cersei,theon greyjoy,1
+greyjoy,stark,1
+ramsay,theon greyjoy,1
+ramsay,yara,1
+men,yara,1
+lysa arryn,sansa stark,1
+joffrey baratheon,sansa stark,1
+cersei lannister,joffrey baratheon,1
+baelish,winterfell,1
+jaime lannister,treason,1
+bran stark,samwell tarly,1
+bran stark,jon - jon's,1
+queen daenerys,sansa stark,1
+daenerys targaryen,lady stark,1
+hurry,sansa stark,1
+lyanna,winterfell,1
+dothraki,sansa stark,1
+euron greyjoy,mm,1
+cersei lannister,strickland,1
+crayah,william,2
+dirah,william,1
+crayah,eddie,1
+queen cersei,qyburn,2
+euron greyjoy,kingslayer,2
+karstarks,varys,1
+gendry baratheon,lady stark,1
+deepwood motte,sansa stark,1
+daenerys targaryen,randyll tarly,1
+jon snow,little sam,1
+bran,sam tarly,2
+bran,bran,1
+lyanna stark,sam tarly,1
+aegon targaryen,sam tarly,2
+ned stark,sam tarly,1
+robert,sam tarly,1
+aegon targaryen,ned stark,1
+aegon targaryen,robert,1
+tormund,winterfell,1
+jorah mormont,volantis,1
+jorah mormont,meereen,1
+meereen,volantis,1
+daenerys targaryen,lady sansa,1
+a white walker,sam tarly,1
+edd,thenn,1
+gilly,sam tarly,1
+edd,samwell tarly,1
+grenn,sam tarly,1
+jaime lannister,mm,1
+brienne,glad,1
+brienne,eastwatch,1
+eastwatch,glad,1
+ser jaime lannister,tyrion lannister,1
+mm,ser jaime lannister,1
+lady brienne,tyrion lannister,1
+hound,lady brienne,1
+jaime lannister,kneel,2
+kneel,lady brienne,1
+arise,jaime lannister,1
+brienne,tyrion lannister,1
+mm-mm,tormund,1
+jon snow,lyanna stark,1
+jon snow,robert,1
+aegon targaryen,jon snow,1
+jon snow,samwell,1
+dany,jon snow,1
+daenerys targaryen,robert baratheon's,1
+gendry,man,1
+bran stark,daeron targaryen,1
+martha,varys,1
+daenerys targaryen,sansa,1
+daenerys targaryen,torgo nudo,1
+daybreak,jon snow,1
+arya stark,queen cersei,2
+cersei,sandor clegane,1
+cersei,lannister,1
+escape,tyrion lannister,1
+faster,soldier,1
+mommy,vicky,1
+cersei,euron greyjoy,1
+maegor,qyburn,1
+dothraki,sandor clegane,1
+daenerys targaryen,grey worm,1
+cersei lannister,grey worm,1
+daenerys targaryen,torgo nudho,1
+daenerys targaryen,queen,1
+jon snow,necessary,1
+cersei,yara greyjoy,1
+jon snow,yara greyjoy,1
+davos,torgo nudho,1
+grey worm,jon snow,1
+sansa stark,uncle,1
+imp,tyrion lannister,1
+brandon,tyrion lannister,1
+sansa stark,westeros,1
+choose ser davos,tyrion lannister,1

@@ -1,0 +1,748 @@
+nodeA,nodeB,weight
+White Walkers,White Walkers,1
+Stark,Stark,6
+Jon Arryn,Robert,2
+Ned,Stark,2
+Dothraki,Khal Drogo,1
+Ned,Ranger,1
+Kings Landing,Ned,1
+Grace,Magister Illyrio,1
+Robert,Robert,6
+Aleena,Bessie,1
+Bessie,Meryl,1
+Aleena,Meryl,1
+Daenerys Targaryen,Dothraki,1
+Dothraki,Robert,3
+Moon,Moon,1
+Dothraki,Khal,1
+Stark,the Mad King,1
+Lady Catelyn,Stark,1
+Baelish,Brandon,1
+Seize Winterfell,Warden,1
+Seize Winterfell,Uncle Kevan,1
+Uncle Kevan,Warden,1
+Ned Stark's,Snow,1
+Bran,Ser Rodrik,1
+Tarly,Tarlys,1
+Lancel Lannister,Tarly,1
+Lancel Lannister,Tarlys,1
+Jaime Lannister,Kingslayer,3
+Jorah the Andal,Khal Bharbo,1
+Hodor,Kneel,1
+Sam,Sam,2
+Jon Arryn's,Vale,2
+Ser Hugh,Ser Hugh,2
+Sam,Thorne,1
+Lady Piggy,Thorne,1
+Hush,Irri,1
+Ros,Young,1
+Ros,Snow,1
+Eastwatch,Mance Rayder,2
+Mance Rayder,Mance Rayder,2
+Hound,Hound,4
+Gregor,Hound,8
+Gregor,Gregor,6
+Hoster Tully,Lady Whent,1
+Cersei,Jon Arryn,1
+Cersei,Cersei Lannister,1
+Cersei,King,1
+Cersei Lannister,Jon Arryn,1
+Jon Arryn,King,1
+Cersei Lannister,King,1
+Lady Stark,Vale,2
+Jon Arryn,Lys,1
+Stark,Starks,2
+Arya Stark,Winterfell,2
+Lady Arryn,Vale,2
+Robin,Vale,2
+Jon Arryn,Vale,3
+Loras Tyrell,the Knight of the,1
+Joffrey,Robert,7
+Dothraki,Viserys Targaryen,4
+Viserys Targaryen,Viserys Targaryen,1
+Dothraki,Dothraki,6
+Starks,Threaten,1
+Brandon Stark,Winterfell,1
+Benjen Stark's,Mance,1
+Lady Arryn,Lannister,1
+Imp,Speak,1
+Bran,Jon Arryn,1
+Westeros,the Mad King,1
+Hand,Taller,1
+Jaime Lannister,Stark,2
+Jaime Lannister,Steffon,1
+Stark,Steffon,1
+Axel Baratheon,Orys Baratheon,1
+Orys Baratheon,Robert Baratheon,1
+Joffrey Baratheon,Orys Baratheon,1
+Axel Baratheon,Robert Baratheon,1
+Axel Baratheon,Joffrey Baratheon,1
+Joffrey Baratheon,Robert Baratheon,1
+Ned,Robert,2
+Daenerys Targaryen,Grace,1
+Ser,Sweet,1
+Joffrey,King Robert's,1
+Vale,Vale,5
+Catelyn Stark's,Jaime,1
+Grace,Janos Slynt,1
+Grace,Kingsguard,3
+Cersei,Sansa,2
+Cersei,Joffrey,19
+Lady Stark,Tywin Lannister,1
+Jorah,Westeros,1
+Joffrey,Thorne,2
+Thorne,Thorne,1
+Maester Aemon,Robb,1
+Aegon,Maekar,1
+Khal,Khal,1
+Bronn,Moon,1
+Jaime,Tysha,1
+Baelor,Robert,1
+Lady Sansa,Ser Ilyn,1
+Robert,the Mad King,4
+Joffrey,Ned Stark's,1
+Joffrey,Robb Stark,5
+Ned Stark's,Robb Stark,1
+Robert,Stark,2
+Kings,Robert Baratheon,1
+Benjen Stark,Snow,1
+Ser Dontos,Ser Meryn,1
+Ned Stark's,Quite,1
+Cersei Lannister,Robert,2
+Jaime Lannister,Robert,2
+Cersei Lannister,Joffrey,2
+Jaime Lannister,Joffrey,2
+Cersei Lannister,Jaime Lannister,3
+Kingslayer,Ser Jaime Lannister,1
+Mace Tyrell,Randyll Tarly,1
+Joffrey Baratheon,Westeros,1
+Arya,Ned Stark's,1
+Bran,Rickon,10
+Baelish,Littlefinger,1
+Cersei,Robert,1
+Arryn,Stark,1
+Shut,Weak,1
+Hodor,Rouse Bran,1
+Brienne,Done,1
+Done,Kingsguard,1
+Brienne,Kingsguard,1
+Lady Catelyn,Margaery,1
+Brienne,Lady Catelyn,1
+Deepwood Motte,Yara,1
+Joffrey,Sansa,6
+Robin Arryn,Vale,2
+Vale,Westeros,1
+Janos Slynt,Lysa Arryn,1
+Dorne,Robert Baratheon,1
+Martell,Robin Arryn,1
+Kingslayer,Robb Stark,1
+Littlefinger,Robin Arryn,1
+Jon Arryn,Stark,1
+Lannister,Lannister,2
+Joffrey,Ned Stark,1
+Willem,Willem,1
+Hound,Joffrey,12
+Joffrey,Joffrey,11
+Cersei,Hound,12
+Cersei,Cersei,4
+Dothraki,Qarth,2
+Kneel,Kneel,2
+Moat Cailin,Starks,1
+Ned Stark,Robert,5
+Bronn,Lancel,1
+Brienne,Robb,1
+Mance,Mance,1
+Daenerys Targaryen,Robert Baratheon,1
+Westeros,Westeros,5
+Betray,Ned Stark,1
+Maester Luwin,Ned Stark,1
+Deepwood Motte,Ned Stark,2
+Betray,Maester Luwin,1
+Betray,Deepwood Motte,1
+Deepwood Motte,Maester Luwin,1
+Hodor,Rickon,2
+Billy,Jack,1
+Dark Sister,Visenya Targaryen,1
+Joffrey,Queen,1
+Lannisters,Treason,1
+Karstarks,Kingslayer,1
+Kingslayer,Lannister,1
+Karstarks,Lannister,2
+His Name,Kingslayer,1
+Cersei,Ned,1
+Robb Stark,Stark,2
+Winterfell,Winterfell,3
+Greyjoys,Winterfell,1
+Stark,Winterfell,5
+Greyjoys,Stark,1
+Joffrey,Lannister,1
+Volantis,Volantis,2
+Robert,Westeros,2
+Hand,Jon Arryn,1
+Hand,Ned Stark,1
+Jon Arryn,Ned Stark,3
+Lady Sansa,Sheila,1
+Hound,Ser Lancel,1
+Fitting,Lady Sansa,1
+Steer,Wildfire,2
+Steer,Steer,1
+Halfman,Halfman,1
+Joffrey,Tywin Lannister,2
+Margaery,Margaery,4
+Ned Stark,Winterfell,1
+Aggar,Black Lorren,1
+Aggar,Ironborn,1
+Aggar,Seagard,1
+Black Lorren,Ironborn,1
+Black Lorren,Seagard,1
+Ironborn,Seagard,1
+Arya Stark,Farewell,1
+Mance,Qhorin Halfhand,1
+Jon Snow,Mance Rayder,3
+Stannis Baratheon,Westeros,1
+Dorne,Dorne,1
+Flea Bottom,Joffrey,1
+Kingsguard,Robert Baratheon's,1
+Daenerys Stormborn,Robert,1
+Bolton,Ironborn,3
+Bolton,Bran,1
+Bolton,Rickon,1
+Bran,Ironborn,1
+Ironborn,Rickon,2
+Margaery,Tyrell,2
+Lady Olenna,Margaery,1
+Lady Sansa,Olenna,1
+Robert,Sansa,2
+Jon Snow,Stark,3
+Jojen Reed,Meera,1
+Brandon,Jojen Reed,1
+Brandon,Meera,1
+Anguy,Thoros,1
+Martyn Lannister,Willem Lannister,1
+Hoster Tully,Robb Stark,1
+Robb Stark,Roose Bolton,1
+Hoster Tully,Stark,1
+Hoster Tully,Roose Bolton,1
+Roose Bolton,Stark,2
+Baelish,Vale,2
+Stark,Told Thoros,1
+Dothraki,Kraznys,1
+Genna,Wonderful,1
+Kayla,Volantis,1
+Kayla,Meereenese Knot,1
+Meereenese Knot,Volantis,1
+Catelyn Stark's,Kingslayer,1
+Littlefinger,Littlefinger,1
+King Robert,Ned Stark,1
+Lannister,Stark,2
+Bolton,Kingslayer,1
+Joffrey,Stark,3
+Karhold,Rickard Karstark,1
+Ilyn Payne,Joffrey,3
+Joffrey,Ser Meryn,1
+Cersei,Ilyn Payne,3
+Cersei,Ser Meryn,1
+Ilyn Payne,Ser Meryn,1
+Hound,Ilyn Payne,1
+Hound,Ser Meryn,1
+Flea Bottom,Robert Baratheon,1
+Flea Bottom,the Mad King,1
+Robert Baratheon,the Mad King,2
+Ned Stark,Stark,1
+Bert,Shh,1
+Bloody,Thoros,1
+Robert,Thoros,1
+Bloody,Robert,1
+Black Rat,Red Flea,1
+Karstarks,Walder Frey,1
+Karstarks,Theon Greyjoy,1
+Karstarks,Sansa Stark,1
+Karstarks,Winterfell,1
+Sansa Stark,Theon Greyjoy,1
+Theon Greyjoy,Winterfell,1
+Sansa Stark,Winterfell,2
+Jon Snow,Qhorin Halfhand,1
+Bolton,Stark,1
+Lady Stark's,Stark,2
+Bolton,Lady Stark's,1
+Bolton,Jaime Lannister,1
+Jaime Lannister,Lady Stark's,1
+Kingsguard,Loras,2
+Kingsguard,Kingsguard,1
+Highgarden,Tyrell,1
+Joffrey,Tyrell,1
+Highgarden,Joffrey,1
+Highgarden,Margaery,1
+Joffrey,Margaery,3
+Kingsguard,Ser Mandon,1
+Myranda,Shh,1
+Jon Snow,Jon Snow,8
+Bran,Jon Snow,1
+Lady Stark's,Podrick,1
+Balon Greyjoy,Joffrey Baratheon,1
+Cersei,Grandson,1
+Grandson,Joffrey,1
+Duncan,Feldan,1
+Duncan,Tristifer,1
+Feldan,Tristifer,1
+Samwell Tarly,Tarly,1
+Ironborn,Winterfell,2
+Rickon,Winterfell,2
+Derwa,Walda,1
+Walda,Waldra,1
+Derwa,Waldra,1
+Freya,Marianne,1
+Marianne,Waldra,1
+Freya,Waldra,1
+Brandon The Builder,Gift,1
+Gift,Maester Luwin,1
+Brandon The Builder,Maester Luwin,1
+Hodor,Hush,1
+Hodor,Hodor,56
+Everything Jojen,Hodor,1
+Desmond Crakehall,Ser Eldrick Sarsfield,5
+Ser Eldrick Sarsfield,Ser Eldrick Sarsfield,1
+Desmond Crakehall,Desmond Crakehall,1
+Halfman,the Demon Monkey,1
+Robb Stark,Robb Stark's,1
+Stark,Warden,3
+Sansa,Stark,3
+Roose Bolton,Winterfell,1
+Warden,Winterfell,2
+Sansa,Winterfell,1
+Roose Bolton,Warden,6
+Roose Bolton,Sansa,1
+Sansa,Warden,1
+Catelyn,Hoster,1
+Hoster Tully,Ned Stark,1
+Hoster Tully,Jon Arryn,1
+Ironborn,Ramsay,1
+Balon Greyjoy,Ironborn,1
+Ramsay Snow,Roose Bolton,2
+Ramsay Snow,Warden,2
+Lys,Myr,1
+Malcolm,Talbott,1
+Craster,Maester Aemon,2
+Maester Aemon,Maester Aemon,1
+Rylene,Westeros,1
+Kingslayer,Oathbreaker,1
+Lannister,Oberyn Martell,1
+Halfhand,Mance,1
+Kingsguard,Ser Preston,1
+Grace,Ser Preston,1
+Arthur Dayne,Kingsguard,1
+Kingsguard,Ser Duncan,2
+Arthur Dayne,Ser Duncan,2
+Ser Duncan,Ser Duncan,1
+Arya Stark,Sansa Stark,2
+Arya Stark,Sansa Lannister,1
+Sansa Lannister,Sansa Stark,1
+Bolton,Lannister,3
+Bolton,Moat Cailin,3
+Ironborn,Lannister,1
+Lannister,Moat Cailin,2
+Ironborn,Moat Cailin,2
+Moat Cailin,Moat Cailin,1
+Bran,Rickon Stark,1
+Reek,Stark,1
+Bran,Starks,1
+Rickon,Starks,2
+Robb Stark,Starks,2
+Bran,Robb Stark,1
+Rickon,Robb Stark,1
+Reek,Robb Stark,1
+Bolton,Gather,1
+Gather,Moat Cailin,1
+Bran,Summer,1
+Bran,Winterfell,1
+Cersei Lannister,Ellaria,1
+Ellaria,Hand,1
+Ellaria,Lady Cersei,1
+Ellaria,Ellaria Sand,1
+Cersei Lannister,Hand,1
+Cersei Lannister,Lady Cersei,1
+Cersei Lannister,Ellaria Sand,1
+Hand,Lady Cersei,1
+Ellaria Sand,Hand,1
+Ellaria Sand,Lady Cersei,1
+Balon Greyjoy,Joffrey,1
+Balon Greyjoy,Robb Stark,1
+Hoster Tully,Sally,1
+Dorne,Greyjoys,1
+Dorne,Westeros,2
+Aegon Targaryen,Dorne,1
+Greyjoys,Westeros,1
+Aegon Targaryen,Greyjoys,1
+Aegon Targaryen,Westeros,1
+Joffrey,Sweet Tommen,1
+Cersei,Sweet Tommen,1
+Mance Rayder,Miles,1
+Craster,Karl,2
+Craster,Craster,1
+Joffrey,Vale,2
+Dontos,Joffrey,1
+Luthor,Viola,2
+Luthor,Luthor,1
+Craster,Snow,1
+Catelyn Stark,Joffrey,1
+Aerys II,Kingsguard,1
+Kingsguard,Robert Baratheon,1
+Kingsguard,Kingslayer,1
+Aerys II,Robert Baratheon,1
+Aerys II,Kingslayer,1
+Kingslayer,Robert Baratheon,1
+Ned Stark's,Ned Stark's,2
+Ned Stark's,Stark,3
+Lady Stark's,Ned Stark's,2
+Bran,Sam,1
+Mance,Mance Rayder,1
+Mance Rayder,Mormont,3
+Mance,Mormont,1
+Gin Alley,Karl Tanner,1
+Brandon Stark,Brandon Stark,1
+Al,Lady Arryn,1
+Robin,Robin,1
+Joffrey,Meryn Trant,1
+Joffrey,Thoros,1
+Cersei,Meryn Trant,1
+Cersei,Tywin Lannister,1
+Cersei,Thoros,1
+Meryn Trant,Tywin Lannister,1
+Meryn Trant,Thoros,1
+Ilyn Payne,Meryn Trant,1
+Thoros,Tywin Lannister,1
+Ilyn Payne,Tywin Lannister,1
+Ilyn Payne,Thoros,1
+Brandon,Uncle Brandon,1
+Robin,Shh,1
+Meryn,Meryn Trant,1
+Hodor,Meera,1
+Flea Bottom,Karl,1
+Craster,Ser Crow,1
+Loyal Reek,Reek,1
+Imp,Joffrey,4
+Joffrey,the Mad King,2
+Imp,Imp,1
+Imp,the Mad King,2
+Grand Maester,Joffrey,1
+Dontos Hollard,Sansa Stark,1
+Ser Meryn,Ser Meryn,1
+Bronn,Cersei,1
+Snow,Tarly,1
+Lady Sansa,Lady Sansa,1
+Catelyn Stark's,Lysa Arryn,1
+Daenerys Stormborn,Missandei,1
+Bolton,Winterfell,2
+Baelish,Baelish,5
+Royce,Sansa Stark,1
+Sansa Stark,Ser Waymar,1
+Royce,Ser Waymar,1
+Joffrey,Queen Cersei,1
+Queen Cersei,Vale,1
+Arryn,Baelish,3
+Baelish,Royce,2
+Ned Stark,Vale,2
+Robert Baratheon,Vale,2
+Vale,the Mad King,2
+Jon Arryn,Robert Baratheon,1
+Jon Arryn,the Mad King,1
+Ned Stark,Robert Baratheon,1
+Ned Stark,the Mad King,1
+Catelyn Stark,Lysa,1
+Baelish,Robb Stark,1
+Locke,Walk,1
+Ramsay Bolton,Roose Bolton,1
+Ramsay Bolton,Warden,2
+Hound,Sandor Clegane,2
+Arya Stark,Hound,1
+Hound,Lysa Arryn,1
+Arya Stark,Sandor Clegane,1
+Lysa Arryn,Sandor Clegane,1
+Arya Stark,Lysa Arryn,1
+Orson,Orson Lannister,1
+Khuu,Khuu,2
+Khuu,Orson,2
+Orson,Orson,3
+Elia Martell,Elia Martell,1
+Gilly,Samwell Tarly,1
+Gilly,Randyll Tarly,1
+Randyll Tarly,Samwell Tarly,1
+Jon Snow,Wanna,1
+Jon Snow,Ned Stark's,2
+Loras Tyrell,Loras Tyrell,3
+Loras Tyrell,Margaery,3
+Queen,Valyrian,1
+Brienne,Lannister,2
+Ilyrio Mopatis,Robert Baratheon,1
+Ilyrio Mopatis,Westeros,1
+Robert Baratheon,Westeros,1
+Lannister,Winterfell,1
+Hurry,Jon Snow,1
+Stonespear,Sunsnake,1
+Mance Rayder,Westeros,1
+Cersei,Walder Frey,2
+Baelish,Lady Sansa,1
+Catelyn Stark's,Lady Brienne,1
+Lady Sansa,alone--,1
+Down,Podrick,1
+Lannister,Oberyn,1
+Daenerys Stormborn,Meereen,1
+Lannister,Uncle Kevan,1
+Jon Stark,Kneel,1
+Jon Snow,Slayer,1
+Gilly,Slynt,1
+Jon,Ser Alliser,1
+Mance Rayder,Ser Alliser,1
+Mormont,Ser Alliser,2
+Jon,Mance Rayder,1
+Jon,Mormont,2
+Mormont,Mormont,1
+Cerwyn,Stark,2
+Bolton,Tywin Lannister,1
+Ned,Sansa Stark,1
+Catelyn Stark,Sansa Stark,1
+Catelyn Stark,Ned,2
+Arya Stark's,Stark,3
+Maester Aemon,Sam,1
+First Ranger,Ser Alliser,1
+Grandmaester,Tyrell,1
+Queen Margaery,Sansa,1
+Cersei,Queen Margaery,2
+Queen Margaery,Queen Mother,1
+Queen Mother,Sansa,1
+Cersei,Queen Mother,1
+Cersei Lannister,Vale,1
+Baelish,Westeros,1
+Robb Stark's,Warden,1
+Robert Baratheon,Whent,1
+Lyanna,Whent,1
+Robert,Whent,1
+Elia Martell,Whent,1
+Lyanna,Robert Baratheon,1
+Robert,Robert Baratheon,1
+Elia Martell,Robert Baratheon,1
+Lyanna,Robert,1
+Elia Martell,Lyanna,1
+Elia Martell,Robert,1
+Bolton,Ramsay,4
+Dorne,Jaime Lannister's,1
+Dorne,Jaime Lannister,1
+Nym,Obara,1
+Bolton,Snow,1
+Lady Sansa,Reek,1
+Randyll Tarly,Robert,1
+Bolton,Jon Snow,1
+Barristan,Daario Naharis,1
+Doom,Doom,1
+Westeros,Winterfell,1
+Stark,Westeros,1
+Hurrah,Westeros,1
+Arya Stark,Grace,1
+Grace,Sansa Stark,1
+Grace,Winterfell,1
+Patience,Roose Bolton,1
+Lannister,Martell,2
+Dornishman,Dornishman,6
+Obara Sand,Oberyn Martell,1
+Dorne,Obara Sand,1
+Dorne,Oberyn Martell,1
+Balon Greyjoy,Theon Greyjoy,2
+Bur,Dornishman,3
+Asshei,the Long Farewell,1
+Joanna Lannister,Lannister,1
+Iit,Lhara,1
+Iit,Lane--,1
+Lane--,Lhara,1
+Ragman Harbor,Ragman Lane,1
+Mance,The Long Night,1
+Ser Byron Swann,Vhagar,1
+Dorne,Oberyn,1
+Dorne,Trystane,2
+Oberyn,Trystane,1
+Free,Queen,1
+Gilly,Oldtown,1
+Ramsay,Warden,1
+Jorah,Queen,2
+Jorah,Jorah,1
+Meereen,Meereen,2
+Jorah the Andal,Missandei,1
+Kingsguard,May,1
+Bowen Marsh,Othell Yarwyck,1
+Jon Snow,Snow,2
+Lannister,Sansa Stark,1
+Sansa Stark,Sansa Stark,1
+Lay,Oberyn,1
+Elia Martell,Oberyn,1
+Missandei,Westeros,1
+Ramsay,Ramsay,2
+Vala,Vala,1
+Dorne,House Martell,1
+Catelyn Stark,Stark,1
+Catelyn Stark,Sansa,1
+Rickon,Rob,1
+Cersei Lannister,Gregor Clegane,1
+Baelish,Sansa Stark,1
+Royce,Vale,1
+Gather,Vale,1
+Meereen,Queen Daenerys,1
+Dosh Khaleen,Vaes Dothrak,1
+Kings,Margaery,1
+Margaery,The High Sparrow,2
+Kings,The High Sparrow,1
+Queen Margaery,The High Sparrow,1
+Margaery,Queen Margaery,1
+Margaery,the High Sparrow,1
+DOLOROUS EDD,JON SNOW,4
+JON SNOW,JON SNOW,1
+DOLOROUS EDD,DOLOROUS EDD,1
+Jon Snow,Winterfell,1
+Jon Snow,Rickon,1
+Cersei,Shut,1
+Balon Greyjoy,Yara Greyjoy,1
+Ironborn,Yara,2
+Ironborn,Ironborn,1
+Walkers,Winterfell,2
+Karstarks,Starks,1
+Manderlys,Starks,1
+Karstarks,Manderlys,1
+Karstarks,Rickon,1
+Ned Stark's,Tullys,1
+Hodor,Warg,1
+Edd,Rabbits,1
+Gilly,Rabbits,1
+Edd,Gilly,1
+Hail King Joffrey,Hail Queen Margaery,1
+Jon,Uncle Benjen,1
+Meereen,Westeros,2
+Bolton,Lady Sansa,1
+Lady Sansa,Lannister,1
+Ramsay Bolton,Winterfell,1
+Ramsay Bolton,Rickon Stark,1
+Rickon Stark,Winterfell,1
+Jon Snow,Mormont,1
+Catelyn Stark,Ser Jaime,1
+Catelyn,Ser Jaime,1
+Catelyn,Catelyn Stark,1
+Cersei,Loras Tyrell,1
+Cersei Lannister,Loras Tyrell,1
+Martell,Stark,1
+Catelyn,Cersei,1
+Edmure Tully,Hoster Tully,1
+Lady Bolton,Winterfell,1
+Lady Bolton,Warden,1
+Jon Snow,Rest,1
+Ned Starks,Rickon,1
+Ramsay,Rickon,2
+Ned Starks,Ramsay,2
+Starks,Tullys,1
+Robb Stark,Tullys,1
+Littlefinger,Vale,1
+Dorne,Tyrell,1
+Daario Naharis,Farewell,1
+Arya Stark,Stark,1
+Cerwyn,Ramsay Bolton,1
+Cerwyn,Ned Stark's,1
+Ramsay Bolton,Stark,1
+Ned Stark's,Ramsay Bolton,1
+Lady Mormont,Robb Stark,1
+Lady Mormont,Manderlys,1
+Jon Snow,Lady Mormont,1
+Manderlys,Robb Stark,1
+Jon Snow,Robb Stark,1
+Jon Snow,Manderlys,1
+Jon Snow,the King,1
+Howland Reed,Meera Reed,1
+Brandon Stark,Meera Reed,1
+Meera Reed,Ned Stark,1
+Brandon Stark,Howland Reed,1
+Howland Reed,Ned Stark,1
+Brandon Stark,Ned Stark,1
+Dothraki,Tyrell,1
+Greyjoys,Lannister,1
+Aegon Targaryen,Samwell Tarly,1
+Cersei,Westeros,3
+Cersei,Tyrell,1
+Cersei,Jon Snow,2
+the Iron Throne,the Mad King's,1
+Dothraki,the Iron Throne,1
+Olenna Tyrell,the Iron Throne,1
+Dothraki,the Mad King's,1
+Olenna Tyrell,the Mad King's,1
+Dothraki,Olenna Tyrell,1
+Jorah,Jorah Mormont,1
+Greyscale,Ser Jorah,1
+Archmaester Pilos,Ser Jorah,1
+Archmaester Pilos,Greyscale,1
+Samwell Tarley,Ser Jorah,1
+Cersei,Horse,1
+My King,Sansa,1
+Cersei,Momma,1
+Momma,Momma,1
+Jon Snow,a Flea Bottom,1
+Aegon Targaryen,Torren Stark,2
+Torren Stark,Torren Stark,1
+Jon Snow,Warden,2
+Warden,Warden,1
+Dothraki,Jon Snow King,1
+Jon Snow King,Westeros,1
+Dothraki,Westeros,1
+Dorne,Iron Born,1
+Ellaria,Greyjoys,1
+Euron Greyjoy,Jaime Lannister,1
+Euron Greyjoy,Westeros,1
+Jaime Lannister,Westeros,1
+Ellaria Sand,Oberyn,1
+Euron Greyjoy's,Westeros,1
+Cersei,Kingsguard,1
+Hodor,Summer,1
+Jon,Lady Stark,1
+Jon Snow,Ned Stark,1
+Iron Born,JON SNOW,1
+Dothraki,Iron Born,1
+Dothraki,JON SNOW,1
+DICKON,Lannister,2
+Dothraki Screamers,Lannister,1
+DICKON,Dothraki Screamers,1
+Dothraki,Lannisters,2
+Dothraki,Lannister,2
+Dickon Tarley,Randyll Tarley,2
+DICKON,Dothraki,2
+DICKON,DICKON,1
+Joffrey,Olenna,2
+Margerey,Olenna,2
+Olenna,Olenna,1
+Joffrey,Margerey,1
+Jon Snow,Ser Jorah Mormont,1
+Gendry,Robert Baratheon's,1
+THOROS,THOROS,1
+Mormont,Westeros,1
+Bran,Ser Rodrick,1
+Rodrick,Ser Rodrick,1
+Bran,Rodrick,1
+Robert,Septa Mordane,1
+Knight,Winterfell,1
+Vale,Winterfell,1
+Knight,Vale,1
+Cersei,Lady Sansa,1
+Lady Sansa,Lyanna Mormont,1
+Cersei,Lyanna Mormont,1
+Dario,Jon Snow,2
+Greyjoy,Stark,1
+Ramsay,Yara,1
+Cersei Lannister,Joffrey Baratheon,1
+Baelish,Winterfell,1
+Expedition,Lannister,1
+Queen Daenerys,Sansa Stark,1
+Bran,Bran,1
+Aegon Targaryen,Ned Stark,1
+Aegon Targaryen,Robert,1
+Meereen,Volantis,1
+Gilly,Sam,1
+Eastwatch,Glad,1
+Mm,Ser Jaime Lannister,1
+Hound,Lady Brienne,1
+Kneel,Lady Brienne,1
+Arya Stark,Queen Cersei,1
+Cersei,Lannister,1
+Cersei,Sail,1
+Imp,Me,1

@@ -1,0 +1,11 @@
+pydot
+graphviz
+numpy
+tensorflow
+keras
+gensim
+sklearn
+pandas
+pathlib
+seaborn
+python-Levenshtein
