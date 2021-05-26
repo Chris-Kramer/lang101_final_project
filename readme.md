@@ -1,7 +1,7 @@
 # Self-assigned Project – Game of Throne’s Social Network
 **Christoffer Kramer**  
 **26-05-2021**  
-This self-assigned project builds on two of my previous portfolio entries: assignment 4 and assignment 6. This project uses network analysis to investigate how the social network in the television series Game of Thrones is structured. I’m using the data set from Assignment 6 in this project. I’m investigating how the social network changes over seasons, and how different characters, houses, and regions related to each other. These results are then plotted according to their centralities (eigenvector, betweenness, and degree). I’m focusing the social network on, who is speaking about whom.  
+This self-assigned project builds on two of my previous portfolio entries: assignment 4 and assignment 6. This project uses network analysis to investigate how the social network in the television series Game of Thrones is structured. I’m using the data set from Assignment 6 in this project. I’m investigating how the social network changes over seasons, and how different characters, houses, and regions relate to each other. These results are then plotted according to their centralities (eigenvector, betweenness, and degree). I’m focusing the social network on, who is speaking about whom.  
 
 ## Methods
 I’m using SpaCy’s named entity recognition to get the named characters on each line in the script and rule-based entity recognition (regexes) to find the speaker. Each character is then added as nodeB together with the speaker, who is nodeA, to an edgelist. This ensures that I’m getting a directed Graph where each edge only connects the speaker and the character that is being spoken about. The relationship between nodes is represented with an arrow leading from the speaker to the characters they are speaking about. 
@@ -12,7 +12,7 @@ I’m using networkx to calculate centralities and matplotlib to plot the networ
 I have not been able to make my scripts work on windows. The problem is Pygraphviz. This library is not necessary to run the web scrape script, but you need it for the network analysis script. If you wish to use my scripts on a windows machine you should, therefore, create a virtual environment, install dependencies (requirements.txt and SpaCy’s en_core_web_sm NLP model), and then run the script manually from the src folder. However, installing pygraphviz can be a hassle, and you probably need to install that library (and its dependencies) manually.  
 
 ## Webscrape (webscrape.py)
-**Usage:** This should work on both Linux and Mac. However, there is a chance that the website has been changed when you are reviewing this script. Therefore, the output CSV file is already included in the repo (it is located under the data folder and is called houses_regions.csv).  
+**Usage:** This should work on both Linux and Mac. However, there is a chance that the website has been changed when you are reviewing this script. Therefore, the output CSV file is already included in the repo (it is located under the data folder and is called _houses_regions.csv_).  
 _Step 1 - Clone repo:_  
 ```console
 git clone https://github.com/Chris-Kramer/lang101_final_project.git
@@ -26,7 +26,7 @@ _Step3 - Run bash script:_
 bash run-script-webscrape.sh
 ```  
 ### Output
-The output is a CSV file called houses_regions.csv, which contains a list of every house in Westeros and what region that house is from.  
+The output is a CSV file called _houses_regions.csv_, which contains a list of every house in Westeros and what region that house is from.  
 
 ### Parameters  
 This script doesn’t take parameters.
