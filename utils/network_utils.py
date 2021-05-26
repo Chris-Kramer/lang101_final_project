@@ -122,6 +122,7 @@ def plot_network(G, pos, centrality, title, output_file, directed = False):
     #Save and close fig
     fig.savefig(output_file, bbox_inches="tight")
     plt.clf()
+    fig.clf()
 
 """
 --------- Create dataframes ---------
