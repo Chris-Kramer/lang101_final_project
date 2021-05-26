@@ -34,7 +34,7 @@ def main():
                     default = 8,
                     type = int,
                     help =
-                    "[INFO] If you only want edges with a weight above a certain number for all seasons and full names\n"
+                    "[INFO] Specify which edges to remove, based on their weight, for all seasons and full names \n"
                     "[TYPE] int \n"
                     "[DEFAULT] 8 \n"
                     "[EXAMPLE] --filter_a_full 10")
@@ -45,7 +45,7 @@ def main():
                     default = 8,
                     type = int,
                     help =
-                    "[INFO] If you only want edges with a weight above a certain number for all seasons and first names\n"
+                    "[INFO] Specify which edges to remove, based on their weight, for all seasons and first names \n"
                     "[TYPE] int \n"
                     "[DEFAULT] 8 \n"
                     "[EXAMPLE] --filter_a_first 10")
@@ -57,7 +57,7 @@ def main():
                     default = 2,
                     type = int,
                     help =
-                    "[INFO] If you only want edges with a weight above a certain number for individual seasons and full names\n"
+                    "[INFO] Specify which edges to remove, based on their weight, for individual seasons and full names \n"
                     "[TYPE] int \n"
                     "[DEFAULT] 2 \n"
                     "[EXAMPLE] --filter_s_full 4")
@@ -68,7 +68,7 @@ def main():
                     default = 2,
                     type = int,
                     help =
-                    "[INFO] If you only want edges with a weight above a certain number for individual seasons and first names\n"
+                    "[INFO] Specify which edges to remove, based on their weight, for individual seasons and first names \n"
                     "[TYPE] int \n"
                     "[DEFAULT] 2 \n"
                     "[EXAMPLE] --filter_s_first 4")
