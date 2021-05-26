@@ -72,7 +72,6 @@ def calc_centralities(data):
 # https://aksakalli.github.io/2017/07/17/network-centrality-measures-and-their-visualization.html
 # However it has been changed substantially and bears little resemblances to the original function
 def plot_network(G, pos, centrality, title, output_file, directed = False):
-    fig = plt.subplots()
     
     # Draw network
     nx.draw(G, pos, with_labels=True, node_size=20,
@@ -119,10 +118,9 @@ def plot_network(G, pos, centrality, title, output_file, directed = False):
     #Colorbar for nodes
     cbar = plt.colorbar(nodes, orientation="vertical", label= "Node Centrality")
     plt.axis('off')
-    #Save and close fig
-    fig.savefig(output_file, bbox_inches="tight")
-    plt.clf()
-    fig.clf()
+    #Save and close plt
+    plt.savefig(output_file, bbox_inches="tight")
+    plt.close("all")
 
 """
 --------- Create dataframes ---------
